@@ -30,7 +30,8 @@ const Hero = () => {
           <div className="max-w-7xl px-6 border-2 border-dashed border-gray-200 p-10 rounded-2xl bg-black/20">
             <div className="max-w-xl text-white relative">
               <h1 className="text-xl md:text-4xl lg:text-5xl font-bold mb-2 md:mb-4">
-                {storeInfo?.shop_name}
+                {/* {storeInfo?.shop_name} */}
+                Bongo Vibe
               </h1>
 
               <p className="text-sm md:text-xl font-semibold max-w-lg flex gap-1 items-start mb-2">
