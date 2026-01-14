@@ -1,0 +1,3034 @@
+[
+    {
+        "type_id": "6880c239098c458993b32675",
+        "type_name": "Men",
+        "featured": {
+            "title": "Topwear",
+            "image": "1755496670969-522627028.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c239098c458993b32675",
+                "category_id": "689845adb3ca3b7d6ef86cb7",
+                "name": "Topwear",
+                "category_img": "1755496670969-522627028.jpg",
+                "subcategories": [
+                    {
+                        "id": "68985c23730144a3ca4c125b",
+                        "name": "T-Shirts",
+                        "banner_type_1": "1754815520520-433714110.jpg",
+                        "banner_type_2": "1754815520522-819660092.jpg"
+                    },
+                    {
+                        "id": "68985c4a5766a3773bed7db4",
+                        "name": "Polo",
+                        "banner_type_1": "1754815560054-21537631.jpg",
+                        "banner_type_2": "1754815560057-371834904.jpg"
+                    },
+                    {
+                        "id": "68985c8f02f14c1aab1caa4f",
+                        "name": "Casual Shirts",
+                        "banner_type_1": "1754815627188-546798741.jpg",
+                        "banner_type_2": "1754815627191-809093809.jpg"
+                    },
+                    {
+                        "id": "68985cadebb8279fdf7ccd9f",
+                        "name": "Formal Shirts",
+                        "banner_type_1": "1754815658496-955225465.jpg",
+                        "banner_type_2": "1754815658498-34302187.jpg"
+                    },
+                    {
+                        "id": "68985d9a2d080c6271799ec3",
+                        "name": "Hoodie",
+                        "banner_type_1": "1754815895997-541762088.jpg",
+                        "banner_type_2": "1754815896000-663771288.jpg"
+                    },
+                    {
+                        "id": "68985dbe4b2cbf910985f185",
+                        "name": "Sweaters",
+                        "banner_type_1": "1754815932347-980489474.jpg",
+                        "banner_type_2": "1754815932350-999268238.jpg"
+                    },
+                    {
+                        "id": "68985fc802f14c1aab1caa97",
+                        "name": "Jackets",
+                        "banner_type_1": "1754816454066-10026726.jpg",
+                        "banner_type_2": "1754816454068-72045430.jpg"
+                    },
+                    {
+                        "id": "68985fff2d080c6271799ef1",
+                        "name": "Blazers & Coats",
+                        "banner_type_1": "1754816509348-570110166.jpg",
+                        "banner_type_2": "1754816509350-545785988.jpg"
+                    },
+                    {
+                        "id": "6898601802f14c1aab1caa9c",
+                        "name": "Suits",
+                        "banner_type_1": "1754816533600-527827453.jpg",
+                        "banner_type_2": "1754816533601-473919382.jpg"
+                    },
+                    {
+                        "id": "6898602e2d080c6271799ef6",
+                        "name": "Rain Jackets",
+                        "banner_type_1": "1754816557084-613121215.jpg",
+                        "banner_type_2": "1754816557085-573098841.jpg"
+                    },
+                    {
+                        "id": "6898604a02f14c1aab1caaa1",
+                        "name": "Cricket Jersey",
+                        "banner_type_1": "1754816583950-335174164.jpg",
+                        "banner_type_2": "1754816583958-763744346.jpg"
+                    },
+                    {
+                        "id": "689860652aeb21a1ac36f73e",
+                        "name": "Football Jersey",
+                        "banner_type_1": "1754816610801-951554881.jpg",
+                        "banner_type_2": "1754816610803-679780451.jpg"
+                    },
+                    {
+                        "id": "689864dab37097eaf75281dd",
+                        "name": "Hade Cap ",
+                        "banner_type_1": "1754817750393-169785928.jpg",
+                        "banner_type_2": "1754817750395-672922098.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c239098c458993b32675",
+                "category_id": "68984704b3ca3b7d6ef86cbb",
+                "name": "Traditional Wear",
+                "category_img": "1755496685483-945011479.jpg",
+                "subcategories": [
+                    {
+                        "id": "689861b82aeb21a1ac36f77a",
+                        "name": "Panjabi",
+                        "banner_type_1": "1754816949917-753459527.jpg",
+                        "banner_type_2": "1754816949918-240267077.jpg"
+                    },
+                    {
+                        "id": "689861e02aeb21a1ac36f77e",
+                        "name": "Sherwanis",
+                        "banner_type_1": "1754816990332-132240994.jpg",
+                        "banner_type_2": "1754816990334-814467168.jpg"
+                    },
+                    {
+                        "id": "689862522aeb21a1ac36f782",
+                        "name": "Koti",
+                        "banner_type_1": "1754817102861-207260700.jpg",
+                        "banner_type_2": "1754817102861-669313229.jpg"
+                    },
+                    {
+                        "id": "689862692aeb21a1ac36f786",
+                        "name": "Kabli",
+                        "banner_type_1": "1754817126258-413242455.jpg",
+                        "banner_type_2": "1754817126259-176111929.jpg"
+                    },
+                    {
+                        "id": "689862a44b2cbf910985f1df",
+                        "name": "Pajama",
+                        "banner_type_1": "1754817184760-764492962.jpg",
+                        "banner_type_2": "1754817184761-741719306.jpg"
+                    },
+                    {
+                        "id": "689862c64b2cbf910985f1e4",
+                        "name": "Lungi",
+                        "banner_type_1": "1754817217953-795467342.jpg",
+                        "banner_type_2": "1754817217956-935431075.jpg"
+                    },
+                    {
+                        "id": "689862dd4b2cbf910985f1e9",
+                        "name": "Shawl",
+                        "banner_type_1": "1754817242243-69571043.jpg",
+                        "banner_type_2": "1754817242243-623253033.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c239098c458993b32675",
+                "category_id": "68984730b3ca3b7d6ef86cbf",
+                "name": "Bottomwear",
+                "category_img": "1755496700388-460678093.jpg",
+                "subcategories": [
+                    {
+                        "id": "6898636a02f14c1aab1caad7",
+                        "name": "Jeans",
+                        "banner_type_1": "1754817383960-776734866.jpg",
+                        "banner_type_2": "1754817383961-480069935.jpg"
+                    },
+                    {
+                        "id": "6898637c02f14c1aab1caadb",
+                        "name": "Denim",
+                        "banner_type_1": "1754817402612-537854816.jpg",
+                        "banner_type_2": "1754817402613-850080152.jpg"
+                    },
+                    {
+                        "id": "6898638e02f14c1aab1caae0",
+                        "name": "Trousers",
+                        "banner_type_1": "1754817421257-731679072.jpg",
+                        "banner_type_2": "1754817421258-962798903.jpg"
+                    },
+                    {
+                        "id": "689863a602f14c1aab1caae4",
+                        "name": "Formal Pant",
+                        "banner_type_1": "1754817445486-534078452.jpg",
+                        "banner_type_2": "1754817445487-299199843.jpg"
+                    },
+                    {
+                        "id": "689863c12d080c6271799f38",
+                        "name": "Shorts",
+                        "banner_type_1": "1754817471202-242541097.jpg",
+                        "banner_type_2": "1754817471203-704147827.jpg"
+                    },
+                    {
+                        "id": "689863d702f14c1aab1caaf0",
+                        "name": "Ties",
+                        "banner_type_1": "1754817493657-344410373.jpg",
+                        "banner_type_2": "1754817493658-132966663.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c239098c458993b32675",
+                "category_id": "6898476db3ca3b7d6ef86cc3",
+                "name": "Innerwear & Sleepwear",
+                "category_img": "1755496713370-277227514.jpg",
+                "subcategories": [
+                    {
+                        "id": "6898644145f636fdefc45b8c",
+                        "name": "Underwear",
+                        "banner_type_1": "1754817573855-73820516.jpg",
+                        "banner_type_2": "1754817573859-134757960.jpg"
+                    },
+                    {
+                        "id": "689864a0ebb8279fdf7cce55",
+                        "name": "Sleepwear & Loungewear",
+                        "banner_type_1": "1754817694523-431005427.jpg",
+                        "banner_type_2": "1754817694526-969355180.jpg"
+                    },
+                    {
+                        "id": "689864b8072045de69ed8b25",
+                        "name": "Sando Ganji",
+                        "banner_type_1": "1754817717796-370187591.jpg",
+                        "banner_type_2": "1754817717798-145766366.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type_id": "6880c244098c458993b32677",
+        "type_name": "Women",
+        "featured": {
+            "title": "Western Wear",
+            "image": "1753352402879-422960562.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c3a101737605f43eff4c",
+                "name": "Western Wear",
+                "category_img": "1753352402879-422960562.jpg",
+                "subcategories": [
+                    {
+                        "id": "6880d0a8c0e71da31a6890c3",
+                        "name": "Bodycons",
+                        "banner_type_1": "1753272486797-151646492.jpg",
+                        "banner_type_2": "1753272486797-598090506.jpg"
+                    },
+                    {
+                        "id": "6880d0d1c5cd55b7c623cb38",
+                        "name": "Tops",
+                        "banner_type_1": "1753701188514-395642695.jpg",
+                        "banner_type_2": "1753701188517-523948687.jpg"
+                    },
+                    {
+                        "id": "6880d145c0e71da31a6890c8",
+                        "name": "Jeans",
+                        "banner_type_1": "1753272643755-844738770.jpg",
+                        "banner_type_2": "1753272643755-269814851.jpg"
+                    },
+                    {
+                        "id": "6880d186c5cd55b7c623cb3c",
+                        "name": "T-shirts",
+                        "banner_type_1": "1753272708795-757262013.jpg",
+                        "banner_type_2": "1753272708795-197908842.jpg"
+                    },
+                    {
+                        "id": "6880d1a7c0e71da31a6890cc",
+                        "name": "Shirts",
+                        "banner_type_1": "1753272742069-421653624.jpg",
+                        "banner_type_2": "1753272742069-267693927.jpg"
+                    },
+                    {
+                        "id": "6880d31dc0e71da31a6890d0",
+                        "name": "Trousers",
+                        "banner_type_1": "1753273115676-584646789.jpg",
+                        "banner_type_2": "1753273115677-356300418.jpg"
+                    },
+                    {
+                        "id": "6880d35cc5cd55b7c623cb40",
+                        "name": "Co-ords",
+                        "banner_type_1": "1753273178958-528424913.jpg",
+                        "banner_type_2": "1753273178959-831009076.jpg"
+                    },
+                    {
+                        "id": "6880d426c0e71da31a6890d4",
+                        "name": "Midi gowns",
+                        "banner_type_1": "1753273381142-514603770.jpg",
+                        "banner_type_2": "1753273381143-730356978.jpg"
+                    },
+                    {
+                        "id": "68820cd434702019380dba9b",
+                        "name": "Jumpsuits",
+                        "banner_type_1": "1753353426437-135046610.jpg",
+                        "banner_type_2": "1753353426439-766291083.jpg"
+                    },
+                    {
+                        "id": "68820d017f75c082fb074d2c",
+                        "name": "Vacation Gowns",
+                        "banner_type_1": "1753353471032-235701834.jpg",
+                        "banner_type_2": "1753353471033-633593324.jpg"
+                    },
+                    {
+                        "id": "68820d264678d7d9cdd047fa",
+                        "name": "Skirts",
+                        "banner_type_1": "1753353509117-64848404.jpg",
+                        "banner_type_2": "1753353509119-848694115.jpg"
+                    },
+                    {
+                        "id": "68820d654678d7d9cdd047ff",
+                        "name": "Gowns",
+                        "banner_type_1": "1753353570532-541341098.jpg",
+                        "banner_type_2": "1753353570547-480878134.jpg"
+                    },
+                    {
+                        "id": "68820dfb4678d7d9cdd0480a",
+                        "name": "Shrug",
+                        "banner_type_1": "1753353720832-12544626.jpg",
+                        "banner_type_2": "1753353720833-358365433.jpg"
+                    },
+                    {
+                        "id": "68820e33c984136445a633d2",
+                        "name": "Formal Pants",
+                        "banner_type_1": "1753353777593-213355094.jpg",
+                        "banner_type_2": "1753353777593-86008330.jpg"
+                    },
+                    {
+                        "id": "68820e58c984136445a633d7",
+                        "name": "Wide Leg Flare Pants",
+                        "banner_type_1": "1753353814902-198364982.jpg",
+                        "banner_type_2": "1753353814903-230095162.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c40e098c458993b326a3",
+                "name": "Teenager Wear",
+                "category_img": "1753352433078-258195046.jpg",
+                "subcategories": [
+                    {
+                        "id": "68820fb534702019380dbad2",
+                        "name": "Crop Tops",
+                        "banner_type_1": "1753354163390-786594294.jpg",
+                        "banner_type_2": "1753354163390-253926074.jpg"
+                    },
+                    {
+                        "id": "68820fd87f75c082fb074d61",
+                        "name": "Floral Tops",
+                        "banner_type_1": "1753354198379-491312610.jpg",
+                        "banner_type_2": "1753354198380-176081055.jpg"
+                    },
+                    {
+                        "id": "6882102534702019380dbad7",
+                        "name": "Tank Tops",
+                        "banner_type_1": "1753354276093-561656121.jpg",
+                        "banner_type_2": "1753354276093-774073366.jpg"
+                    },
+                    {
+                        "id": "68821289f9ab776c69bd9663",
+                        "name": "Oversized Tees",
+                        "banner_type_1": "1753354887748-568938619.jpg",
+                        "banner_type_2": "1753354887749-881000208.jpg"
+                    },
+                    {
+                        "id": "688212bbc984136445a633f8",
+                        "name": "Oversized Shirts",
+                        "banner_type_1": "1753354937879-293293627.jpg",
+                        "banner_type_2": "1753354937879-575507389.jpg"
+                    },
+                    {
+                        "id": "688212ec4678d7d9cdd0482e",
+                        "name": "High Rise Jeans",
+                        "banner_type_1": "1753354986472-916998231.jpg",
+                        "banner_type_2": "1753354986473-447390528.jpg"
+                    },
+                    {
+                        "id": "6882149db382f4dfe2d0b1b2",
+                        "name": "Faded Jeans",
+                        "banner_type_1": "1753355419354-493208737.jpg",
+                        "banner_type_2": "1753355419355-242665953.jpg"
+                    },
+                    {
+                        "id": "688214bdf9ab776c69bd966f",
+                        "name": "Wide Leg Jeans",
+                        "banner_type_1": "1753355451622-461662176.jpg",
+                        "banner_type_2": "1753355451622-883203084.jpg"
+                    },
+                    {
+                        "id": "688214dcf9ab776c69bd9673",
+                        "name": "Slit Skirts",
+                        "banner_type_1": "1753355483306-392058604.jpg",
+                        "banner_type_2": "1753355483307-843396344.jpg"
+                    },
+                    {
+                        "id": "68821506f9ab776c69bd9678",
+                        "name": "Cargo Trousers",
+                        "banner_type_1": "1753355524848-550898343.jpg",
+                        "banner_type_2": "1753355524849-140421566.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c5f101737605f43eff58",
+                "name": "Three Pieces",
+                "category_img": "1753352528461-635433788.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821572f9ab776c69bd967f",
+                        "name": "Pakistani Dresses",
+                        "banner_type_1": "1753355633320-109111095.jpg",
+                        "banner_type_2": "1753355633322-113269168.jpg"
+                    },
+                    {
+                        "id": "68821595b382f4dfe2d0b1be",
+                        "name": "Cotton Three Pieces",
+                        "banner_type_1": "1753355667272-228991285.jpg",
+                        "banner_type_2": "1753355667273-305704979.jpg"
+                    },
+                    {
+                        "id": "688215b4f9ab776c69bd9684",
+                        "name": "Party Three Pieces",
+                        "banner_type_1": "1753355698055-684133966.jpg",
+                        "banner_type_2": "1753355698056-766540702.jpg"
+                    },
+                    {
+                        "id": "688215fcf9ab776c69bd9688",
+                        "name": "Boutique Three Pieces",
+                        "banner_type_1": "1753355770180-17207913.jpg",
+                        "banner_type_2": "1753355770181-299137777.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c66801737605f43eff6a",
+                "name": "Traditional Dress",
+                "category_img": "1753352557919-754387251.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821632b382f4dfe2d0b1c4",
+                        "name": "Kurtas",
+                        "banner_type_1": "1753355824858-31356870.jpg",
+                        "banner_type_2": "1753355824858-255900744.jpg"
+                    },
+                    {
+                        "id": "6882165c03bd4850add280d0",
+                        "name": "Anarkalis",
+                        "banner_type_1": "1753355866266-121500143.png",
+                        "banner_type_2": "1753355866272-768465562.png"
+                    },
+                    {
+                        "id": "688216c003bd4850add280d4",
+                        "name": "Party Lehenga",
+                        "banner_type_1": "1753355966842-551054160.jpg",
+                        "banner_type_2": "1753355966843-219234162.jpg"
+                    },
+                    {
+                        "id": "68821700c984136445a63403",
+                        "name": "Bridal Lehenga",
+                        "banner_type_1": "1753356030482-151451706.jpg",
+                        "banner_type_2": "1753356030483-895163931.jpg"
+                    },
+                    {
+                        "id": "68821725f9ab776c69bd968e",
+                        "name": "Maternity Dresses",
+                        "banner_type_1": "1753356067527-461552172.jpg",
+                        "banner_type_2": "1753356067527-192212110.jpg"
+                    },
+                    {
+                        "id": "68821745b382f4dfe2d0b1ca",
+                        "name": "Pants",
+                        "banner_type_1": "1753356099336-127293516.jpg",
+                        "banner_type_2": "1753356099337-959757874.jpg"
+                    },
+                    {
+                        "id": "68821801b382f4dfe2d0b1cf",
+                        "name": "Dupatta",
+                        "banner_type_1": "1753356287044-141474955.jpg",
+                        "banner_type_2": "1753356287044-85502835.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c68b01737605f43eff6d",
+                "name": "Burka and Accessories",
+                "category_img": "1753352593623-627101624.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821829f9ab776c69bd9693",
+                        "name": "Regular Burka",
+                        "banner_type_1": "1753356327992-330796132.jpg",
+                        "banner_type_2": "1753356327992-99224864.jpg"
+                    },
+                    {
+                        "id": "6882186af9ab776c69bd9697",
+                        "name": "Party Burka",
+                        "banner_type_1": "1753356393020-960417237.jpg",
+                        "banner_type_2": "1753356393021-878459459.jpg"
+                    },
+                    {
+                        "id": "688218a0f9ab776c69bd969c",
+                        "name": "Khimar",
+                        "banner_type_1": "1753356447057-800099832.jpg",
+                        "banner_type_2": "1753356447058-271760274.jpg"
+                    },
+                    {
+                        "id": "688218c5c984136445a63409",
+                        "name": "Inner",
+                        "banner_type_1": "1753356483799-995733170.jpg",
+                        "banner_type_2": "1753356483799-675029363.jpg"
+                    },
+                    {
+                        "id": "688218e2f9ab776c69bd96a3",
+                        "name": "Niqab",
+                        "banner_type_1": "1753356512680-579187287.jpg",
+                        "banner_type_2": "1753356512680-532126230.jpg"
+                    },
+                    {
+                        "id": "68821948f9ab776c69bd96a7",
+                        "name": "Hijab",
+                        "banner_type_1": "1753356614221-588224595.jpg",
+                        "banner_type_2": "1753356614222-446294358.jpg"
+                    },
+                    {
+                        "id": "688219bec984136445a6340f",
+                        "name": "Prayer Dresses & Hijab",
+                        "banner_type_1": "1753356732325-106377516.jpg",
+                        "banner_type_2": "1753356732325-247200076.jpg"
+                    },
+                    {
+                        "id": "68821a3ef9ab776c69bd96ac",
+                        "name": "Hijab Accessories",
+                        "banner_type_1": "1753356860708-241175395.jpg",
+                        "banner_type_2": "1753356860709-915325004.jpg"
+                    },
+                    {
+                        "id": "68821a78c984136445a63414",
+                        "name": "Muslimah Handsocks",
+                        "banner_type_1": "1753356919023-609150737.jpg",
+                        "banner_type_2": "1753356919023-115056005.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c6b101737605f43eff74",
+                "name": "Lingerie & Loungewear",
+                "category_img": "1753352902760-675886740.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821a9df9ab776c69bd96b1",
+                        "name": "Bra",
+                        "banner_type_1": "1753356956271-879675652.jpg",
+                        "banner_type_2": "1753356956271-27275688.jpg"
+                    },
+                    {
+                        "id": "68821b63c6ced3eec9c4d5ba",
+                        "name": "Briefs",
+                        "banner_type_1": "1753357153767-186367831.jpg",
+                        "banner_type_2": "1753357153772-52603315.jpg"
+                    },
+                    {
+                        "id": "68821b81c984136445a6341b",
+                        "name": "Night Suits",
+                        "banner_type_1": "1753774798139-989719801.jpg",
+                        "banner_type_2": "1753774798140-395467191.jpg"
+                    },
+                    {
+                        "id": "68821b9ec6ced3eec9c4d5bf",
+                        "name": "Nightdress",
+                        "banner_type_1": "1753357212478-165792708.jpg",
+                        "banner_type_2": "1753357212478-525568322.jpg"
+                    },
+                    {
+                        "id": "68821bc0c984136445a63420",
+                        "name": "Lounge Pants",
+                        "banner_type_1": "1753357247009-187805087.jpg",
+                        "banner_type_2": "1753357247009-386562234.jpg"
+                    },
+                    {
+                        "id": "68821be4c6ced3eec9c4d5c4",
+                        "name": "Shape Wear",
+                        "banner_type_1": "1753357282906-840931592.jpg",
+                        "banner_type_2": "1753357282906-690312491.jpg"
+                    },
+                    {
+                        "id": "68ca4daf4d3e2a6fd2e90dee",
+                        "name": "Blouse",
+                        "banner_type_1": "1758088621417-189245726.jpg",
+                        "banner_type_2": "1758088621419-923452332.jpg"
+                    },
+                    {
+                        "id": "68ca4dc81c62b92295cd187c",
+                        "name": "Petticoat",
+                        "banner_type_1": "1758088646562-789760632.jpg",
+                        "banner_type_2": "1758088646562-555293002.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c6d201737605f43eff77",
+                "name": "Sports Wear",
+                "category_img": "1753353031815-46237666.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821c0cc6ced3eec9c4d5c8",
+                        "name": "T-shirts",
+                        "banner_type_1": "1753357323202-389420511.jpg",
+                        "banner_type_2": "1753357323202-112910368.jpg"
+                    },
+                    {
+                        "id": "68821c30c984136445a63426",
+                        "name": "Track Pants",
+                        "banner_type_1": "1753357358559-170898971.jpg",
+                        "banner_type_2": "1753357358559-680496562.jpg"
+                    },
+                    {
+                        "id": "68821c50c6ced3eec9c4d5cd",
+                        "name": "Jackets",
+                        "banner_type_1": "1753357391181-556465619.jpg",
+                        "banner_type_2": "1753357391182-594946509.jpg"
+                    },
+                    {
+                        "id": "68821c6ac984136445a6342b",
+                        "name": "Shorts",
+                        "banner_type_1": "1753357417124-846475764.jpg",
+                        "banner_type_2": "1753357417125-6636794.jpg"
+                    },
+                    {
+                        "id": "68821c8bc6ced3eec9c4d5d2",
+                        "name": "Sweatshirts",
+                        "banner_type_1": "1753774893525-262506422.jpg",
+                        "banner_type_2": "1753774893528-116046967.jpg"
+                    },
+                    {
+                        "id": "68821caec984136445a63430",
+                        "name": "Track Suits",
+                        "banner_type_1": "1753357484651-824712043.jpg",
+                        "banner_type_2": "1753357484651-715936827.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c6f101737605f43eff7a",
+                "name": "Winter wear",
+                "category_img": "1753773974833-648791656.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821cd8c6ced3eec9c4d5d7",
+                        "name": "Mid-Length Windproof Winter Coat",
+                        "banner_type_1": "1753357526535-328875472.jpg",
+                        "banner_type_2": "1753357526538-562504034.jpg"
+                    },
+                    {
+                        "id": "68821cfac984136445a63435",
+                        "name": "Overcoat",
+                        "banner_type_1": "1753357560757-833950364.jpg",
+                        "banner_type_2": "1753357560758-243410273.jpg"
+                    },
+                    {
+                        "id": "68821d1dc6ced3eec9c4d5dc",
+                        "name": "Hoodie",
+                        "banner_type_1": "1753357596076-144393787.jpg",
+                        "banner_type_2": "1753357596077-305214641.jpg"
+                    },
+                    {
+                        "id": "68821d41c984136445a6343a",
+                        "name": "Sweater",
+                        "banner_type_1": "1753774467131-413726443.jpg",
+                        "banner_type_2": "1753774467132-530787393.jpg"
+                    },
+                    {
+                        "id": "688879189973b3416a539824",
+                        "name": "Shawl",
+                        "banner_type_1": "1753774358618-361699447.jpg",
+                        "banner_type_2": "1753774358619-355184391.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "6880c71101737605f43eff7d",
+                "name": "Jewellery",
+                "category_img": "1753353189480-46664596.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821d64c6ced3eec9c4d5e1",
+                        "name": "Necklaces",
+                        "banner_type_1": "1753357666533-462499393.jpg",
+                        "banner_type_2": "1753357666533-168114433.jpg"
+                    },
+                    {
+                        "id": "68821dacc984136445a6343f",
+                        "name": "Necklace Sets",
+                        "banner_type_1": "1753357738384-792308306.jpg",
+                        "banner_type_2": "1753357738385-635826969.jpg"
+                    },
+                    {
+                        "id": "68821dd28014a4342934af7f",
+                        "name": "Earring",
+                        "banner_type_1": "1753357775843-163870798.jpg",
+                        "banner_type_2": "1753357775846-229792370.jpg"
+                    },
+                    {
+                        "id": "68821e09f85075ca4da1beed",
+                        "name": "Finger Rings",
+                        "banner_type_1": "1753357831970-949545147.jpg",
+                        "banner_type_2": "1753357831971-491263419.jpg"
+                    },
+                    {
+                        "id": "68821e278014a4342934af84",
+                        "name": "Bracelets & Bangles",
+                        "banner_type_1": "1753357861387-798610672.jpg",
+                        "banner_type_2": "1753357861388-691321048.jpg"
+                    },
+                    {
+                        "id": "68888368aeba780f66d4dbb0",
+                        "name": "Nose Pin",
+                        "banner_type_1": "1753776998339-654664946.jpg",
+                        "banner_type_2": "1753776998339-701863586.jpg"
+                    },
+                    {
+                        "id": "688883892fad7cc5ecd4e35a",
+                        "name": "Tikli",
+                        "banner_type_1": "1753777031550-418209151.jpg",
+                        "banner_type_2": "1753777031550-17097266.jpg"
+                    },
+                    {
+                        "id": "688883a7aeba780f66d4dbb5",
+                        "name": "Jhapta",
+                        "banner_type_1": "1753777061252-925117966.jpg",
+                        "banner_type_2": "1753777061252-314068086.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c244098c458993b32677",
+                "category_id": "68a6bcc3a69403fd11905273",
+                "name": "Saree",
+                "category_img": "1755757760915-368324367.jpg",
+                "subcategories": [
+                    {
+                        "id": "6880cd0bc67118a191fb47d3",
+                        "name": "Bridal Saree",
+                        "banner_type_1": "1753514645231-390960543.jpg",
+                        "banner_type_2": "1753514645232-906795882.jpg"
+                    },
+                    {
+                        "id": "6880cd408b082137b004abbb",
+                        "name": "Cotton Saree",
+                        "banner_type_1": "1753271614384-307681156.png",
+                        "banner_type_2": "1753271614394-963454535.png"
+                    },
+                    {
+                        "id": "6880cd678b082137b004abcd",
+                        "name": "Party Saree",
+                        "banner_type_1": "1753271654569-344415173.jpg",
+                        "banner_type_2": "1753271654569-275324334.jpg"
+                    },
+                    {
+                        "id": "6880cd8cc5cd55b7c623cb0d",
+                        "name": "Semi Bridal Saree",
+                        "banner_type_1": "1753271690923-60255933.jpg",
+                        "banner_type_2": "1753271690927-459109421.jpg"
+                    },
+                    {
+                        "id": "6880cdb88b082137b004abd1",
+                        "name": "Readymade 𝐒𝐚𝐫𝐞𝐞",
+                        "banner_type_1": "1753271734370-210172435.jpg",
+                        "banner_type_2": "1753271734371-978204553.jpg"
+                    },
+                    {
+                        "id": "6880ce10c5cd55b7c623cb1a",
+                        "name": "Jamdani Saree",
+                        "banner_type_1": "1753271822268-571158398.jpg",
+                        "banner_type_2": "1753271822269-845939666.jpg"
+                    },
+                    {
+                        "id": "6880ce5bc5cd55b7c623cb24",
+                        "name": "Muslin Saree",
+                        "banner_type_1": "1753271897387-548075411.jpg",
+                        "banner_type_2": "1753271897389-310618652.jpg"
+                    },
+                    {
+                        "id": "6880ce88c5cd55b7c623cb2b",
+                        "name": "Silk Saree",
+                        "banner_type_1": "1753271943667-461771931.jpg",
+                        "banner_type_2": "1753271943667-422070543.jpg"
+                    },
+                    {
+                        "id": "6880d069c0e71da31a6890bf",
+                        "name": "Occasional Saree",
+                        "banner_type_1": "1753272423859-686000817.jpg",
+                        "banner_type_2": "1753272423862-443887473.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type_id": "6880c24c098c458993b32679",
+        "type_name": "Kids World",
+        "featured": {
+            "title": "Boys Clothing",
+            "image": "1753353127105-482539897.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c24c098c458993b32679",
+                "category_id": "68820ba97f75c082fb074d0b",
+                "name": "Boys Clothing",
+                "category_img": "1753353127105-482539897.jpg",
+                "subcategories": [
+                    {
+                        "id": "68821e6d8014a4342934af8b",
+                        "name": "Clothing Sets",
+                        "banner_type_1": "1753357931366-845081764.jpg",
+                        "banner_type_2": "1753357931367-254481693.jpg"
+                    },
+                    {
+                        "id": "68821e8e8014a4342934af8f",
+                        "name": "T-Shirts",
+                        "banner_type_1": "1753357964390-625410345.jpg",
+                        "banner_type_2": "1753357964390-234587534.jpg"
+                    },
+                    {
+                        "id": "68821eb4c6ced3eec9c4d5e8",
+                        "name": "Shirts",
+                        "banner_type_1": "1753358001624-776245071.jpg",
+                        "banner_type_2": "1753358001624-194740517.jpg"
+                    },
+                    {
+                        "id": "68821ed5c6ced3eec9c4d5ed",
+                        "name": "Shorts",
+                        "banner_type_1": "1753358035933-57596085.jpg",
+                        "banner_type_2": "1753358035934-21994618.jpg"
+                    },
+                    {
+                        "id": "68821ef7f85075ca4da1bef8",
+                        "name": "Jeans",
+                        "banner_type_1": "1753358069051-854288617.jpg",
+                        "banner_type_2": "1753358069052-985240264.jpg"
+                    },
+                    {
+                        "id": "68821f10c6ced3eec9c4d5f2",
+                        "name": "Trousers",
+                        "banner_type_1": "1753358094537-728976213.jpg",
+                        "banner_type_2": "1753358094538-615022318.jpg"
+                    },
+                    {
+                        "id": "68845e5435588ff42d0573ef",
+                        "name": "Panjabi & Pajama",
+                        "banner_type_1": "1753505362487-790208287.jpg",
+                        "banner_type_2": "1753505362489-355982323.jpg"
+                    },
+                    {
+                        "id": "68845eb01e904edb78231134",
+                        "name": "Track Pants & Pyjamas",
+                        "banner_type_1": "1753505454059-112617979.jpg",
+                        "banner_type_2": "1753505454069-458591202.jpg"
+                    },
+                    {
+                        "id": "68846180beac9c472cce0535",
+                        "name": "Jacket, Sweater & Sweatshirts",
+                        "banner_type_1": "1753506174568-493412039.jpg",
+                        "banner_type_2": "1753506174569-295982263.jpg"
+                    },
+                    {
+                        "id": "688461a4beac9c472cce053a",
+                        "name": "Party Wear",
+                        "banner_type_1": "1753506211150-796411156.jpg",
+                        "banner_type_2": "1753506211150-644700664.jpg"
+                    },
+                    {
+                        "id": "688461e71e904edb7823113f",
+                        "name": "Innerwear & Thermals",
+                        "banner_type_1": "1753506277642-363688732.jpg",
+                        "banner_type_2": "1753506277642-690827798.jpg"
+                    },
+                    {
+                        "id": "688462212942668675699290",
+                        "name": "Nightwear & Loungewear",
+                        "banner_type_1": "1753506335339-510914379.jpg",
+                        "banner_type_2": "1753506335341-381885502.jpg"
+                    },
+                    {
+                        "id": "688ef30fe63e3dbcf6ef07d7",
+                        "name": "Fotua",
+                        "banner_type_1": "1754198797781-425164405.jpg",
+                        "banner_type_2": "1754198797784-901394774.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c24c098c458993b32679",
+                "category_id": "68820bd27f75c082fb074d0f",
+                "name": "Girls Clothing",
+                "category_img": "1753353169121-231081741.jpg",
+                "subcategories": [
+                    {
+                        "id": "688462601e904edb78231144",
+                        "name": "Clothing Sets",
+                        "banner_type_1": "1753506398251-149815416.jpg",
+                        "banner_type_2": "1753506398251-184871164.jpg"
+                    },
+                    {
+                        "id": "6884640dac7a14a2f8507c39",
+                        "name": "Dresses",
+                        "banner_type_1": "1753506827716-290933996.jpg",
+                        "banner_type_2": "1753506827717-681904101.jpg"
+                    },
+                    {
+                        "id": "688467aad15a07a60f719c3f",
+                        "name": "Tops",
+                        "banner_type_1": "1753507752344-911647323.jpg",
+                        "banner_type_2": "1753507752345-409743869.jpg"
+                    },
+                    {
+                        "id": "6884684f3b4ab38f068944d3",
+                        "name": "T-shirts",
+                        "banner_type_1": "1753507917631-658279799.jpg",
+                        "banner_type_2": "1753507917633-240619858.jpg"
+                    },
+                    {
+                        "id": "688468ead15a07a60f719c44",
+                        "name": "Lehenga choli",
+                        "banner_type_1": "1753508071946-765930447.jpg",
+                        "banner_type_2": "1753508071948-911669167.jpg"
+                    },
+                    {
+                        "id": "6884690b3b4ab38f068944d8",
+                        "name": "Kurta Sets",
+                        "banner_type_1": "1753508105638-582801938.jpg",
+                        "banner_type_2": "1753508105639-249859165.jpg"
+                    },
+                    {
+                        "id": "68846a8cf4703482ed9fed77",
+                        "name": "Party wear",
+                        "banner_type_1": "1753508490900-976559922.jpg",
+                        "banner_type_2": "1753508490902-44899221.jpg"
+                    },
+                    {
+                        "id": "68846ad7d537ee56b610eabc",
+                        "name": "Dungarees & Jumpsuits",
+                        "banner_type_1": "1753508565471-202392610.jpg",
+                        "banner_type_2": "1753508565477-518154749.jpg"
+                    },
+                    {
+                        "id": "68846bd3f4703482ed9fed7f",
+                        "name": "Skirts & shorts",
+                        "banner_type_1": "1753508816782-305488674.jpg",
+                        "banner_type_2": "1753508816783-403379933.jpg"
+                    },
+                    {
+                        "id": "68846bfbdcee0731383c1626",
+                        "name": "Jeans, Trousers & Capris",
+                        "banner_type_1": "1753508857082-55978990.jpg",
+                        "banner_type_2": "1753508857106-503158843.jpg"
+                    },
+                    {
+                        "id": "68846c1cd15a07a60f719c4f",
+                        "name": "Jacket, Sweater & Sweatshirts",
+                        "banner_type_1": "1753508890144-211268915.jpg",
+                        "banner_type_2": "1753508890145-455158552.jpg"
+                    },
+                    {
+                        "id": "688470153b4ab38f0689450a",
+                        "name": "Innerwear & Thermals",
+                        "banner_type_1": "1753509907824-481537320.jpg",
+                        "banner_type_2": "1753509907825-807584231.jpg"
+                    },
+                    {
+                        "id": "688470383b4ab38f0689450e",
+                        "name": "Nightwear & Loungewear",
+                        "banner_type_1": "1753509942959-785286723.jpg",
+                        "banner_type_2": "1753509942960-777862162.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c24c098c458993b32679",
+                "category_id": "68820c127f75c082fb074d17",
+                "name": "Boy Footwear",
+                "category_img": "1753353233423-850934058.jpg",
+                "subcategories": [
+                    {
+                        "id": "6884705edcee0731383c164a",
+                        "name": "Casual Shoes",
+                        "banner_type_1": "1753509981102-218177166.jpg",
+                        "banner_type_2": "1753509981103-686851632.jpg"
+                    },
+                    {
+                        "id": "68847085dcee0731383c164f",
+                        "name": "Flipflops",
+                        "banner_type_1": "1753510019895-286002018.jpg",
+                        "banner_type_2": "1753510019896-85376018.jpg"
+                    },
+                    {
+                        "id": "6884711dd15a07a60f719c88",
+                        "name": "Sports Shoes",
+                        "banner_type_1": "1753510172291-959018793.jpg",
+                        "banner_type_2": "1753510172292-715530659.jpg"
+                    },
+                    {
+                        "id": "6884714bd15a07a60f719c8d",
+                        "name": "Flats",
+                        "banner_type_1": "1753510218231-882698493.jpg",
+                        "banner_type_2": "1753510218232-993240673.jpg"
+                    },
+                    {
+                        "id": "68847170037a29eec2c5c74a",
+                        "name": "Sandals",
+                        "banner_type_1": "1753510254369-349115950.jpg",
+                        "banner_type_2": "1753510254370-225173977.jpg"
+                    },
+                    {
+                        "id": "6884719ad15a07a60f719c96",
+                        "name": "School Shoes",
+                        "banner_type_1": "1753510296504-379095017.jpg",
+                        "banner_type_2": "1753510296504-471739162.jpg"
+                    },
+                    {
+                        "id": "688471c9037a29eec2c5c752",
+                        "name": "Socks",
+                        "banner_type_1": "1753510342974-439761408.jpg",
+                        "banner_type_2": "1753510342975-882896741.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c24c098c458993b32679",
+                "category_id": "68820c397f75c082fb074d1b",
+                "name": "Girls Footwear",
+                "category_img": "1753353272281-920619548.jpg",
+                "subcategories": [
+                    {
+                        "id": "68847220dcee0731383c1661",
+                        "name": "Casual Shoes",
+                        "banner_type_1": "1753510430414-489324705.jpg",
+                        "banner_type_2": "1753510430415-746447187.jpg"
+                    },
+                    {
+                        "id": "68847242037a29eec2c5c757",
+                        "name": "Flipflops",
+                        "banner_type_1": "1753510464311-93699517.jpg",
+                        "banner_type_2": "1753510464313-302382317.jpg"
+                    },
+                    {
+                        "id": "68847273037a29eec2c5c75b",
+                        "name": "Sports Shoes",
+                        "banner_type_1": "1753510513773-139794287.jpg",
+                        "banner_type_2": "1753510513773-586064335.jpg"
+                    },
+                    {
+                        "id": "6884729cdcee0731383c1667",
+                        "name": "Flats",
+                        "banner_type_1": "1753510554549-471869198.jpg",
+                        "banner_type_2": "1753510554550-214903586.jpg"
+                    },
+                    {
+                        "id": "688472cd037a29eec2c5c760",
+                        "name": "Sandals",
+                        "banner_type_1": "1753510603499-389541.jpg",
+                        "banner_type_2": "1753510603500-682843235.jpg"
+                    },
+                    {
+                        "id": "68847301dcee0731383c166c",
+                        "name": "Heels",
+                        "banner_type_1": "1753510655343-213280615.jpg",
+                        "banner_type_2": "1753510655343-829521398.jpg"
+                    },
+                    {
+                        "id": "6884732cd15a07a60f719c9b",
+                        "name": "School Shoes",
+                        "banner_type_1": "1753510698487-723771766.jpg",
+                        "banner_type_2": "1753510698488-301368302.jpg"
+                    },
+                    {
+                        "id": "68847366d15a07a60f719ca0",
+                        "name": "Socks",
+                        "banner_type_1": "1753510754895-199016783.jpg",
+                        "banner_type_2": "1753510754895-918891738.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c24c098c458993b32679",
+                "category_id": "68820c537f75c082fb074d1f",
+                "name": "Kids Accessories",
+                "category_img": "1753353298230-700463551.jpg",
+                "subcategories": [
+                    {
+                        "id": "688473f5d15a07a60f719ca4",
+                        "name": "Diapers",
+                        "banner_type_1": "1753510899455-895002741.jpg",
+                        "banner_type_2": "1753510899456-800891892.jpg"
+                    },
+                    {
+                        "id": "6884741cd15a07a60f719ca9",
+                        "name": "Baby Food",
+                        "banner_type_1": "1753513343991-245796223.jpg",
+                        "banner_type_2": "1753513343992-90600791.jpg"
+                    },
+                    {
+                        "id": "688478f18e7520212bd29ab3",
+                        "name": "Baby Skincare",
+                        "banner_type_1": "1753512175272-462525349.jpg",
+                        "banner_type_2": "1753512175272-363012381.jpg"
+                    },
+                    {
+                        "id": "68847a528e7520212bd29ab7",
+                        "name": "Wipes",
+                        "banner_type_1": "1753512528810-660437884.jpg",
+                        "banner_type_2": "1753512528811-902216086.jpg"
+                    },
+                    {
+                        "id": "68847a7240c9122f38c36e3a",
+                        "name": "Baby Oral Care",
+                        "banner_type_1": "1753512561160-414897644.jpg",
+                        "banner_type_2": "1753512561161-825632071.jpg"
+                    },
+                    {
+                        "id": "68847a998e7520212bd29abc",
+                        "name": "Newborn Essentials",
+                        "banner_type_1": "1753512599353-321086659.jpg",
+                        "banner_type_2": "1753512599354-196827474.jpg"
+                    },
+                    {
+                        "id": "68847af5e117978c1ab6cb7a",
+                        "name": "Feeders & Mum Pot",
+                        "banner_type_1": "1753512691757-385820631.jpg",
+                        "banner_type_2": "1753512691759-422299831.jpg"
+                    },
+                    {
+                        "id": "68847b25e256fdb56fa49a58",
+                        "name": "Bags & Backpacks",
+                        "banner_type_1": "1753512739420-100798507.jpg",
+                        "banner_type_2": "1753512739421-431199092.jpg"
+                    },
+                    {
+                        "id": "68847b4ce117978c1ab6cb7f",
+                        "name": "Watches & Sunglasses",
+                        "banner_type_1": "1753513318548-231642608.jpg",
+                        "banner_type_2": "1753513318548-547714701.jpg"
+                    },
+                    {
+                        "id": "68847b69e256fdb56fa49a5d",
+                        "name": "Jewellery & Hair accessory",
+                        "banner_type_1": "1753512806915-250820067.jpg",
+                        "banner_type_2": "1753512806915-93478945.jpg"
+                    },
+                    {
+                        "id": "68847b8fe117978c1ab6cb84",
+                        "name": "Masks & Protective Gears",
+                        "banner_type_1": "1753512845596-630170811.jpg",
+                        "banner_type_2": "1753512845597-157588921.jpg"
+                    },
+                    {
+                        "id": "68847bb9e117978c1ab6cb88",
+                        "name": "Caps & Hats",
+                        "banner_type_1": "1753512888193-940595684.jpg",
+                        "banner_type_2": "1753512888194-29300317.jpg"
+                    },
+                    {
+                        "id": "68847bd7e256fdb56fa49a63",
+                        "name": "Chocolates",
+                        "banner_type_1": "1753512917600-551749093.jpg",
+                        "banner_type_2": "1753512917602-238343436.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c24c098c458993b32679",
+                "category_id": "68820c737f75c082fb074d23",
+                "name": "Toys & Games",
+                "category_img": "1753353330188-595014902.jpg",
+                "subcategories": [
+                    {
+                        "id": "68847c8740c9122f38c36e44",
+                        "name": "Learning & Development",
+                        "banner_type_1": "1753513093435-915221015.jpg",
+                        "banner_type_2": "1753513093436-830263487.jpg"
+                    },
+                    {
+                        "id": "68847ca52f1b74d7d187739d",
+                        "name": "Activity Toys",
+                        "banner_type_1": "1753513121415-6129681.jpg",
+                        "banner_type_2": "1753513121430-974432315.jpg"
+                    },
+                    {
+                        "id": "68847cc22f1b74d7d18773ab",
+                        "name": "Kids Tricycle",
+                        "banner_type_1": "1753513153040-268757789.jpg",
+                        "banner_type_2": "1753513153041-634564057.jpg"
+                    },
+                    {
+                        "id": "68847ce1b7fae734cf2191c3",
+                        "name": "Baby Sliders",
+                        "banner_type_1": "1753513183547-254428645.jpg",
+                        "banner_type_2": "1753513183550-335047327.jpg"
+                    },
+                    {
+                        "id": "68847d072f1b74d7d18773b1",
+                        "name": "Rocker Toys",
+                        "banner_type_1": "1753513222161-409080333.jpg",
+                        "banner_type_2": "1753513222162-356100031.jpg"
+                    },
+                    {
+                        "id": "68847d2eb7fae734cf2191c8",
+                        "name": "Bathing & Swimming",
+                        "banner_type_1": "1753514612629-397914816.jpg",
+                        "banner_type_2": "1753514612633-738013537.jpg"
+                    },
+                    {
+                        "id": "68847db12f1b74d7d18773ba",
+                        "name": "Tents & Play Ball House",
+                        "banner_type_1": "1753513391308-543614654.jpg",
+                        "banner_type_2": "1753513391309-714843356.jpg"
+                    },
+                    {
+                        "id": "68847dcdb7fae734cf2191d1",
+                        "name": "Remote Control Toys",
+                        "banner_type_1": "1753513419320-26130102.jpg",
+                        "banner_type_2": "1753513419321-620812840.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type_id": "6880c255098c458993b3267b",
+        "type_name": "Health & Beauty",
+        "featured": {
+            "title": "Makeup",
+            "image": "1753513711517-720968543.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c255098c458993b3267b",
+                "category_id": "68847ef1479ddf0c0bf2e850",
+                "name": "Makeup",
+                "category_img": "1753513711517-720968543.jpg",
+                "subcategories": [
+                    {
+                        "id": "6884be28103486a6d5918d79",
+                        "name": "Face Primer",
+                        "banner_type_1": "1753530162980-656734689.jpg",
+                        "banner_type_2": "1753530162980-595203176.jpg"
+                    },
+                    {
+                        "id": "6884bf72c44e858264051d24",
+                        "name": "Concealer",
+                        "banner_type_1": "1753530224806-346230426.jpg",
+                        "banner_type_2": "1753530224806-905267842.jpg"
+                    },
+                    {
+                        "id": "6884bf9f4178715e6581f337",
+                        "name": "Foundation",
+                        "banner_type_1": "1753530269806-978308295.jpg",
+                        "banner_type_2": "1753530269806-50942830.jpg"
+                    },
+                    {
+                        "id": "6884bfc64178715e6581f33b",
+                        "name": "Compact and Pressed Powder",
+                        "banner_type_1": "1753530308995-381570290.jpg",
+                        "banner_type_2": "1753530308995-197214767.jpg"
+                    },
+                    {
+                        "id": "6884c0004178715e6581f341",
+                        "name": "Contour",
+                        "banner_type_1": "1753530366797-115704692.jpg",
+                        "banner_type_2": "1753530366798-953416569.jpg"
+                    },
+                    {
+                        "id": "6884c02ce47c6133ef8a96a0",
+                        "name": "Blush",
+                        "banner_type_1": "1753530411018-367254989.jpg",
+                        "banner_type_2": "1753530411019-642638593.jpg"
+                    },
+                    {
+                        "id": "6884c05535b826e0739016d3",
+                        "name": "Bronzer",
+                        "banner_type_1": "1753530451314-660142036.jpg",
+                        "banner_type_2": "1753530451337-26177724.jpg"
+                    },
+                    {
+                        "id": "6884c0e635b826e0739016d7",
+                        "name": "Tinted Moisturizer",
+                        "banner_type_1": "1753530597098-64438432.jpg",
+                        "banner_type_2": "1753530597099-536864593.jpg"
+                    },
+                    {
+                        "id": "6884c10c35b826e0739016dc",
+                        "name": "BB & CC cream",
+                        "banner_type_1": "1753530635466-887188730.jpg",
+                        "banner_type_2": "1753530635466-580062508.jpg"
+                    },
+                    {
+                        "id": "6884c13235b826e0739016e1",
+                        "name": "Highlighters",
+                        "banner_type_1": "1753530673676-563682545.jpg",
+                        "banner_type_2": "1753530673676-248850612.jpg"
+                    },
+                    {
+                        "id": "6884c15de47c6133ef8a96a8",
+                        "name": "Makeup Remover",
+                        "banner_type_1": "1753530716121-298846449.jpg",
+                        "banner_type_2": "1753530716121-289891795.jpg"
+                    },
+                    {
+                        "id": "6884c17b4178715e6581f34a",
+                        "name": "Setting Spray",
+                        "banner_type_1": "1753530746217-915277006.jpg",
+                        "banner_type_2": "1753530746217-506836369.jpg"
+                    },
+                    {
+                        "id": "6884c1cb723015e5af33bfb8",
+                        "name": "Kajal",
+                        "banner_type_1": "1753530825402-90782775.jpg",
+                        "banner_type_2": "1753530825402-405132846.jpg"
+                    },
+                    {
+                        "id": "6884c1f2973eaffa41beaacc",
+                        "name": "Eyeliner",
+                        "banner_type_1": "1753530864552-981216535.jpg",
+                        "banner_type_2": "1753530864552-677052413.jpg"
+                    },
+                    {
+                        "id": "6884c21f723015e5af33bfbd",
+                        "name": "Mascara",
+                        "banner_type_1": "1753530909776-946731986.jpg",
+                        "banner_type_2": "1753530909776-270680763.jpg"
+                    },
+                    {
+                        "id": "6884c2a7723015e5af33bfc1",
+                        "name": "Eye Shadow",
+                        "banner_type_1": "1753531046047-134983132.jpg",
+                        "banner_type_2": "1753531046047-321963216.jpg"
+                    },
+                    {
+                        "id": "6884c2cb973eaffa41beaad2",
+                        "name": "Eye Primer",
+                        "banner_type_1": "1753531081734-207869576.jpg",
+                        "banner_type_2": "1753531081734-741753357.jpg"
+                    },
+                    {
+                        "id": "6884c2f683a14865ee5c0c24",
+                        "name": "Eyes Lens",
+                        "banner_type_1": "1753531124653-222368919.jpg",
+                        "banner_type_2": "1753531124655-237900375.jpg"
+                    },
+                    {
+                        "id": "6884c3177c82d23e1b989224",
+                        "name": "False Eyelashes",
+                        "banner_type_1": "1753531157580-846391568.jpg",
+                        "banner_type_2": "1753531157582-844074672.jpg"
+                    },
+                    {
+                        "id": "6884c33f7c82d23e1b98922b",
+                        "name": "Eye Makeup Remover",
+                        "banner_type_1": "1753531198134-625189856.jpg",
+                        "banner_type_2": "1753531198138-217263020.jpg"
+                    },
+                    {
+                        "id": "6884c5ae94d88ac054d59b53",
+                        "name": "Under Eye Concealer",
+                        "banner_type_1": "1753531820837-944088478.jpg",
+                        "banner_type_2": "1753531820837-106353260.jpg"
+                    },
+                    {
+                        "id": "6884c5e1b5dccd91d4bdbb10",
+                        "name": "Lipstick",
+                        "banner_type_1": "1753531872023-84985209.jpg",
+                        "banner_type_2": "1753531872025-57072776.jpg"
+                    },
+                    {
+                        "id": "6884c605bb22e8ab57b41187",
+                        "name": "Liquid Lipsticks",
+                        "banner_type_1": "1753531907676-214825751.jpg",
+                        "banner_type_2": "1753531907678-183847943.jpg"
+                    },
+                    {
+                        "id": "6884c62883a14865ee5c0c38",
+                        "name": "Lip Crayon",
+                        "banner_type_1": "1753531943078-251861127.jpg",
+                        "banner_type_2": "1753531943079-225023063.jpg"
+                    },
+                    {
+                        "id": "6884c64bbb22e8ab57b4118c",
+                        "name": "Lip Gloss",
+                        "banner_type_1": "1753531978339-713779531.jpg",
+                        "banner_type_2": "1753531978340-331008768.jpg"
+                    },
+                    {
+                        "id": "6884c668bb22e8ab57b41191",
+                        "name": "Lip Liner",
+                        "banner_type_1": "1753532006960-276592808.jpg",
+                        "banner_type_2": "1753532006961-94204311.jpg"
+                    },
+                    {
+                        "id": "6884c6a6bb22e8ab57b41196",
+                        "name": "Lip Plumper",
+                        "banner_type_1": "1753532068459-779936504.jpg",
+                        "banner_type_2": "1753532068459-756679310.jpg"
+                    },
+                    {
+                        "id": "6884c6c083a14865ee5c0c3f",
+                        "name": "Lip Tint",
+                        "banner_type_1": "1753532094761-683175068.jpg",
+                        "banner_type_2": "1753532094762-266542533.jpg"
+                    },
+                    {
+                        "id": "6884c6e0bb22e8ab57b4119b",
+                        "name": "Lip Balm",
+                        "banner_type_1": "1753532125573-200204516.jpg",
+                        "banner_type_2": "1753532125575-536925612.jpg"
+                    },
+                    {
+                        "id": "6884c70783a14865ee5c0c44",
+                        "name": "Nail Polish",
+                        "banner_type_1": "1753532165602-835547238.jpg",
+                        "banner_type_2": "1753532165602-784870547.jpg"
+                    },
+                    {
+                        "id": "6884c726b5dccd91d4bdbb1d",
+                        "name": "Nail Art Kits",
+                        "banner_type_1": "1753532196678-122040989.jpg",
+                        "banner_type_2": "1753532196679-604565566.jpg"
+                    },
+                    {
+                        "id": "6884c75383a14865ee5c0c50",
+                        "name": "Nail Polish Sets",
+                        "banner_type_1": "1753532241334-375456272.jpg",
+                        "banner_type_2": "1753532241335-301708448.jpg"
+                    },
+                    {
+                        "id": "6884c774cdc5b856ee47cd1a",
+                        "name": "Nail Care",
+                        "banner_type_1": "1753532274223-106729588.jpg",
+                        "banner_type_2": "1753532274224-455659388.jpg"
+                    },
+                    {
+                        "id": "6884c792cdc5b856ee47cd1e",
+                        "name": "Nail Polish Remover",
+                        "banner_type_1": "1753532305261-274320980.jpg",
+                        "banner_type_2": "1753532305261-565740422.jpg"
+                    },
+                    {
+                        "id": "6884c7b483a14865ee5c0c56",
+                        "name": "Manicure & Pedicure Kits",
+                        "banner_type_1": "1753532337968-210234773.jpg",
+                        "banner_type_2": "1753532337968-602766381.jpg"
+                    },
+                    {
+                        "id": "6884c7db83a14865ee5c0c5b",
+                        "name": "Eyelash Curlers",
+                        "banner_type_1": "1753532378456-672278525.jpg",
+                        "banner_type_2": "1753532378456-223177440.jpg"
+                    },
+                    {
+                        "id": "6884c7fbbb22e8ab57b411af",
+                        "name": "Sponges & Applicators",
+                        "banner_type_1": "1753532409894-157843346.jpg",
+                        "banner_type_2": "1753532409895-75154639.jpg"
+                    },
+                    {
+                        "id": "6884c81983a14865ee5c0c66",
+                        "name": "Tweezers",
+                        "banner_type_1": "1753532439915-274515250.jpg",
+                        "banner_type_2": "1753532439915-921549866.jpg"
+                    },
+                    {
+                        "id": "6884c84e83a14865ee5c0c71",
+                        "name": "Mirrors",
+                        "banner_type_1": "1753532493227-900176918.jpg",
+                        "banner_type_2": "1753532493227-943254231.jpg"
+                    },
+                    {
+                        "id": "6884c86e83a14865ee5c0c76",
+                        "name": "Makeup Pouches",
+                        "banner_type_1": "1753532524780-166207461.jpg",
+                        "banner_type_2": "1753532524780-600116999.jpg"
+                    },
+                    {
+                        "id": "68d38a9549d57f05dfcb1614",
+                        "name": "Make-up Brush",
+                        "banner_type_1": "1758694035280-375019599.jpg",
+                        "banner_type_2": "1758694035281-708835929.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c255098c458993b3267b",
+                "category_id": "68847f36479ddf0c0bf2e854",
+                "name": "Skin Care",
+                "category_img": "1753513780684-663964898.jpg",
+                "subcategories": [
+                    {
+                        "id": "6884c8b283a14865ee5c0c7f",
+                        "name": "Cleanser",
+                        "banner_type_1": "1753532592400-564894216.jpg",
+                        "banner_type_2": "1753532592400-413737104.jpg"
+                    },
+                    {
+                        "id": "6884c8dabb22e8ab57b411bd",
+                        "name": "Day Cream",
+                        "banner_type_1": "1753532632958-842879048.jpg",
+                        "banner_type_2": "1753532632958-982751518.jpg"
+                    },
+                    {
+                        "id": "6884c8fe83a14865ee5c0c84",
+                        "name": "Night Cream",
+                        "banner_type_1": "1753532668890-45090192.jpg",
+                        "banner_type_2": "1753532668890-394882444.jpg"
+                    },
+                    {
+                        "id": "6884c91abb22e8ab57b411c2",
+                        "name": "Day & Night Cream",
+                        "banner_type_1": "1753532696229-475665490.jpg",
+                        "banner_type_2": "1753532696229-826483049.jpg"
+                    },
+                    {
+                        "id": "6884c93483a14865ee5c0c89",
+                        "name": "Facewash",
+                        "banner_type_1": "1753532723267-78832326.jpg",
+                        "banner_type_2": "1753532723268-505890243.jpg"
+                    },
+                    {
+                        "id": "6884cd5c119884066a2b5a9d",
+                        "name": "Masks & Peels",
+                        "banner_type_1": "1753533786356-8261902.jpg",
+                        "banner_type_2": "1753533786357-368465996.jpg"
+                    },
+                    {
+                        "id": "688707d2e699c86d9c1774b8",
+                        "name": "Scrubs & Exfoliators",
+                        "banner_type_1": "1753679824967-549110084.jpg",
+                        "banner_type_2": "1753679824968-613661949.jpg"
+                    },
+                    {
+                        "id": "688708624f8b073c612b5c36",
+                        "name": "Toners & Astringents",
+                        "banner_type_1": "1753679969050-419941460.jpg",
+                        "banner_type_2": "1753679969051-464367450.jpg"
+                    },
+                    {
+                        "id": "6887087fe699c86d9c1774c1",
+                        "name": "Sheet Mask",
+                        "banner_type_1": "1753679997672-789320810.jpg",
+                        "banner_type_2": "1753679997672-413760930.jpg"
+                    },
+                    {
+                        "id": "688708da4f8b073c612b5c3b",
+                        "name": "Facial Wipes",
+                        "banner_type_1": "1753680087798-134195000.jpg",
+                        "banner_type_2": "1753680087799-796845272.jpg"
+                    },
+                    {
+                        "id": "6887092ae699c86d9c1774ca",
+                        "name": "Serums/Oils",
+                        "banner_type_1": "1753680169098-7055835.jpg",
+                        "banner_type_2": "1753680169098-463550939.jpg"
+                    },
+                    {
+                        "id": "6887094ee699c86d9c1774ce",
+                        "name": "Moisturizer",
+                        "banner_type_1": "1753680205176-542297839.jpg",
+                        "banner_type_2": "1753680205176-98880636.jpg"
+                    },
+                    {
+                        "id": "68870a23b459c82199b03009",
+                        "name": "Spot Remover",
+                        "banner_type_1": "1753680417143-812564103.jpg",
+                        "banner_type_2": "1753680417144-456272021.jpg"
+                    },
+                    {
+                        "id": "68870a48b459c82199b0300e",
+                        "name": "LIP BALMS/LIP CARE",
+                        "banner_type_1": "1753680455264-494069082.jpg",
+                        "banner_type_2": "1753680455264-696053352.jpg"
+                    },
+                    {
+                        "id": "68870a8bc79bd2d28ecdb72f",
+                        "name": "Sunscreens",
+                        "banner_type_1": "1753680521658-623853999.jpg",
+                        "banner_type_2": "1753680521660-555852200.jpg"
+                    },
+                    {
+                        "id": "68870ab0b459c82199b03014",
+                        "name": "Ampoule",
+                        "banner_type_1": "1753680558733-254958099.jpg",
+                        "banner_type_2": "1753680558734-750572467.jpg"
+                    },
+                    {
+                        "id": "68870b0fb459c82199b0301c",
+                        "name": "Hand Creams",
+                        "banner_type_1": "1753680653648-520945551.jpg",
+                        "banner_type_2": "1753680653649-457755588.jpg"
+                    },
+                    {
+                        "id": "68870b28c79bd2d28ecdb738",
+                        "name": "Foot Creams",
+                        "banner_type_1": "1753680679011-183938890.jpg",
+                        "banner_type_2": "1753680679012-323819989.jpg"
+                    },
+                    {
+                        "id": "68870b46b459c82199b03021",
+                        "name": "Sun Care",
+                        "banner_type_1": "1753680709003-418464256.jpg",
+                        "banner_type_2": "1753680709004-206733008.jpg"
+                    },
+                    {
+                        "id": "68870b66b459c82199b03025",
+                        "name": "Foot & Hand Care",
+                        "banner_type_1": "1753680740651-897991029.jpg",
+                        "banner_type_2": "1753680740652-807338014.jpg"
+                    },
+                    {
+                        "id": "68870b88c79bd2d28ecdb73e",
+                        "name": "Hand Sanitizer",
+                        "banner_type_1": "1753680774514-527236698.jpg",
+                        "banner_type_2": "1753680774514-316774192.jpg"
+                    },
+                    {
+                        "id": "68870ba5b459c82199b0302a",
+                        "name": "Hand Wash",
+                        "banner_type_1": "1753680803509-806996810.jpg",
+                        "banner_type_2": "1753680803510-562463827.jpg"
+                    },
+                    {
+                        "id": "68870bcfb459c82199b0302e",
+                        "name": "Sunscreen",
+                        "banner_type_1": "1753680845823-797321028.jpg",
+                        "banner_type_2": "1753680845823-97061319.jpg"
+                    },
+                    {
+                        "id": "68870bfdb459c82199b03033",
+                        "name": "Body Butter",
+                        "banner_type_1": "1753680892455-123135900.jpg",
+                        "banner_type_2": "1753680892456-635817724.jpg"
+                    },
+                    {
+                        "id": "68870c1dc79bd2d28ecdb744",
+                        "name": "Lotions & Creams",
+                        "banner_type_1": "1753680923775-320535603.jpg",
+                        "banner_type_2": "1753680923775-429229073.jpg"
+                    },
+                    {
+                        "id": "68870c46b459c82199b03038",
+                        "name": "Body Scrubs",
+                        "banner_type_1": "1753680964572-854527641.jpg",
+                        "banner_type_2": "1753680964573-99147246.jpg"
+                    },
+                    {
+                        "id": "68870c97b459c82199b0303c",
+                        "name": "Eye Cream",
+                        "banner_type_1": "1753681046257-985004693.jpg",
+                        "banner_type_2": "1753681046258-34718267.jpg"
+                    },
+                    {
+                        "id": "68870cc0c79bd2d28ecdb74a",
+                        "name": "Eye Gel",
+                        "banner_type_1": "1753681086606-598650056.jpg",
+                        "banner_type_2": "1753681086606-873951932.jpg"
+                    },
+                    {
+                        "id": "68870cdeb459c82199b03041",
+                        "name": "Eye Roller",
+                        "banner_type_1": "1753681116566-924246203.jpg",
+                        "banner_type_2": "1753681116567-912320144.jpg"
+                    },
+                    {
+                        "id": "68870d1cb459c82199b03045",
+                        "name": "Under Eye Cream",
+                        "banner_type_1": "1753681178636-23116351.jpg",
+                        "banner_type_2": "1753681178636-87181685.jpg"
+                    },
+                    {
+                        "id": "68870d3dc79bd2d28ecdb750",
+                        "name": "Eye Makeup Remover",
+                        "banner_type_1": "1753681211281-239460407.jpg",
+                        "banner_type_2": "1753681211281-293240626.jpg"
+                    },
+                    {
+                        "id": "6887108215e3391fa45d0f26",
+                        "name": "Scrubs & Exfoliants",
+                        "banner_type_1": "1753682048481-592147390.jpg",
+                        "banner_type_2": "1753682048487-621664777.jpg"
+                    },
+                    {
+                        "id": "688710e40b4ee0a560be0692",
+                        "name": "Shower Gels & Body Wash",
+                        "banner_type_1": "1753682146485-982747093.jpg",
+                        "banner_type_2": "1753682146487-319869026.jpg"
+                    },
+                    {
+                        "id": "6887110d15e3391fa45d0f2b",
+                        "name": "Soaps",
+                        "banner_type_1": "1753682187769-457190334.jpg",
+                        "banner_type_2": "1753682187770-958630100.jpg"
+                    },
+                    {
+                        "id": "6887116b0b4ee0a560be069b",
+                        "name": "Talcum Powder",
+                        "banner_type_1": "1753682281454-82755059.jpg",
+                        "banner_type_2": "1753682281455-328034889.jpg"
+                    },
+                    {
+                        "id": "6887118d15e3391fa45d0f35",
+                        "name": "Razor",
+                        "banner_type_1": "1753682316087-676518342.jpg",
+                        "banner_type_2": "1753682316088-355673553.jpg"
+                    },
+                    {
+                        "id": "688712230b4ee0a560be06a0",
+                        "name": "Shaving cream, Foam & Gel",
+                        "banner_type_1": "1753682466121-674303283.jpg",
+                        "banner_type_2": "1753682466122-150500637.jpg"
+                    },
+                    {
+                        "id": "6887126f15e3391fa45d0f3a",
+                        "name": "Shaving Brush",
+                        "banner_type_1": "1753682541342-418804957.jpg",
+                        "banner_type_2": "1753682541342-54843693.jpg"
+                    },
+                    {
+                        "id": "688712900b4ee0a560be06a5",
+                        "name": "Beard and Moustache care",
+                        "banner_type_1": "1753682575123-179999070.jpg",
+                        "banner_type_2": "1753682575124-137930890.jpg"
+                    },
+                    {
+                        "id": "6887132815e3391fa45d0f3f",
+                        "name": "Aftershave Lotion",
+                        "banner_type_1": "1753682726188-660234666.jpg",
+                        "banner_type_2": "1753682726189-25670961.jpg"
+                    },
+                    {
+                        "id": "688713420b4ee0a560be06aa",
+                        "name": "Trimmers",
+                        "banner_type_1": "1753682752931-909131038.jpg",
+                        "banner_type_2": "1753682752932-631216814.jpg"
+                    },
+                    {
+                        "id": "68d38ac2415f6bd07016ac9d",
+                        "name": "Soothing Gel",
+                        "banner_type_1": "1758694080331-946634502.jpg",
+                        "banner_type_2": "1758694080332-495561139.jpg"
+                    },
+                    {
+                        "id": "68d38ae9415f6bd07016aca3",
+                        "name": "Face Pack",
+                        "banner_type_1": "1758694119975-314825160.jpg",
+                        "banner_type_2": "1758694119976-970224123.jpg"
+                    },
+                    {
+                        "id": "69423ee9a9a6296824b8a6fa",
+                        "name": "Stretch Mark Cream",
+                        "banner_type_1": "1765949159673-541301248.jpg",
+                        "banner_type_2": "1765949159674-473300133.jpg"
+                    },
+                    {
+                        "id": "6942438df68d912a41a7402c",
+                        "name": "Mosquito Lotion",
+                        "banner_type_1": "1765950347961-812383865.jpg",
+                        "banner_type_2": "1765950347962-766148305.jpg"
+                    },
+                    {
+                        "id": "6942454086a2fe8da57213fb",
+                        "name": "Face Cream",
+                        "banner_type_1": "1765950782507-85461439.jpg",
+                        "banner_type_2": "1765950782509-313562808.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c255098c458993b3267b",
+                "category_id": "68847f8b479ddf0c0bf2e858",
+                "name": "Hair Care",
+                "category_img": "1753513865356-89945037.jpg",
+                "subcategories": [
+                    {
+                        "id": "6887137e15e3391fa45d0f44",
+                        "name": "Shampoo",
+                        "banner_type_1": "1753682812578-345998283.jpg",
+                        "banner_type_2": "1753682812578-465931673.jpg"
+                    },
+                    {
+                        "id": "688713a10b4ee0a560be06af",
+                        "name": "Conditioner",
+                        "banner_type_1": "1753682847380-484499360.jpg",
+                        "banner_type_2": "1753682847380-930601859.jpg"
+                    },
+                    {
+                        "id": "6887144315e3391fa45d0f49",
+                        "name": "Hair Oil",
+                        "banner_type_1": "1753683009829-179971696.jpg",
+                        "banner_type_2": "1753683009829-988764720.jpg"
+                    },
+                    {
+                        "id": "688714ef0b4ee0a560be06bc",
+                        "name": "Hair Pack & Masks",
+                        "banner_type_1": "1753683181123-793092531.jpg",
+                        "banner_type_2": "1753683181123-853762269.jpg"
+                    },
+                    {
+                        "id": "6887155715e3391fa45d0f64",
+                        "name": "Hair Serum",
+                        "banner_type_1": "1753683286097-981562395.jpg",
+                        "banner_type_2": "1753683286097-68009507.jpg"
+                    },
+                    {
+                        "id": "688715720b4ee0a560be06c1",
+                        "name": "Rebonding Kit",
+                        "banner_type_1": "1753683312347-667358486.jpg",
+                        "banner_type_2": "1753683312347-420063389.jpg"
+                    },
+                    {
+                        "id": "6887159f15e3391fa45d0f69",
+                        "name": "Hair Color",
+                        "banner_type_1": "1753683357764-516627006.jpg",
+                        "banner_type_2": "1753683357764-169557898.jpg"
+                    },
+                    {
+                        "id": "688717bf15e3391fa45d0f7f",
+                        "name": "Hair Spray",
+                        "banner_type_1": "1753683901991-436941475.jpg",
+                        "banner_type_2": "1753683901991-895428375.jpg"
+                    },
+                    {
+                        "id": "688717dc0b4ee0a560be06d3",
+                        "name": "Gels & Waxes",
+                        "banner_type_1": "1753683931213-50897217.jpg",
+                        "banner_type_2": "1753683931214-515911923.jpg"
+                    },
+                    {
+                        "id": "6887180a0b4ee0a560be06d8",
+                        "name": "Hair Combs",
+                        "banner_type_1": "1753683976862-310724947.jpg",
+                        "banner_type_2": "1753683976862-495010937.jpg"
+                    },
+                    {
+                        "id": "6887182c0b4ee0a560be06dc",
+                        "name": "Hair straightener",
+                        "banner_type_1": "1753684010925-396773497.jpg",
+                        "banner_type_2": "1753684010926-997680294.jpg"
+                    },
+                    {
+                        "id": "6887184815e3391fa45d0f85",
+                        "name": "Hair Dryer",
+                        "banner_type_1": "1753684038689-699272421.jpg",
+                        "banner_type_2": "1753684038690-29889264.jpg"
+                    },
+                    {
+                        "id": "6887185d0b4ee0a560be06e1",
+                        "name": "Curly & Wavy",
+                        "banner_type_1": "1753684060276-154380291.jpg",
+                        "banner_type_2": "1753684060277-982707994.jpg"
+                    },
+                    {
+                        "id": "69424148f68d912a41a74013",
+                        "name": "Hair Lotion",
+                        "banner_type_1": "1765949766572-757564728.jpg",
+                        "banner_type_2": "1765949766572-779555647.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c255098c458993b3267b",
+                "category_id": "68847fcf479ddf0c0bf2e85c",
+                "name": "Personal Care",
+                "category_img": "1753513933746-971312529.jpg",
+                "subcategories": [
+                    {
+                        "id": "688726023c559212fce0a5cd",
+                        "name": "Loofahs & Sponges",
+                        "banner_type_1": "1753687552583-915801993.jpg",
+                        "banner_type_2": "1753687552584-698000350.jpg"
+                    },
+                    {
+                        "id": "6887261fa1af4e863b41624f",
+                        "name": "Toothpaste",
+                        "banner_type_1": "1753687581514-396362076.jpg",
+                        "banner_type_2": "1753687581516-225780546.jpg"
+                    },
+                    {
+                        "id": "68872644a1af4e863b416254",
+                        "name": "Tooth Brush, Floss & Toothpick",
+                        "banner_type_1": "1753687618930-475200313.jpg",
+                        "banner_type_2": "1753687618931-770373287.jpg"
+                    },
+                    {
+                        "id": "6887265da1af4e863b416258",
+                        "name": "Mouthwash",
+                        "banner_type_1": "1753687644235-347453939.jpg",
+                        "banner_type_2": "1753687644236-247600870.jpg"
+                    },
+                    {
+                        "id": "6887268231e4685ae083d636",
+                        "name": "Shaving & Hair Removal",
+                        "banner_type_1": "1753687680029-176835501.jpg",
+                        "banner_type_2": "1753687680031-477172900.jpg"
+                    },
+                    {
+                        "id": "6887269c31e4685ae083d63f",
+                        "name": "Feminine Cleanser",
+                        "banner_type_1": "1753687707387-745197643.jpg",
+                        "banner_type_2": "1753687707388-855593577.jpg"
+                    },
+                    {
+                        "id": "688726bea1af4e863b416277",
+                        "name": "Sanitary Napkins",
+                        "banner_type_1": "1753687740369-98647057.jpg",
+                        "banner_type_2": "1753687740370-32488964.jpg"
+                    },
+                    {
+                        "id": "688726dca1af4e863b416285",
+                        "name": "Breast Cream",
+                        "banner_type_1": "1753687770801-954759109.jpg",
+                        "banner_type_2": "1753687770802-86213936.jpg"
+                    },
+                    {
+                        "id": "688726faa1af4e863b416291",
+                        "name": "Weightloss",
+                        "banner_type_1": "1753687801595-620818435.jpg",
+                        "banner_type_2": "1753687801595-4105036.jpg"
+                    },
+                    {
+                        "id": "6887271d31e4685ae083d659",
+                        "name": "Face Mask",
+                        "banner_type_1": "1753687835234-824781622.jpg",
+                        "banner_type_2": "1753687835235-22822983.jpg"
+                    },
+                    {
+                        "id": "6887274131e4685ae083d65d",
+                        "name": "Sexual Wellness",
+                        "banner_type_1": "1753687872647-203934656.jpg",
+                        "banner_type_2": "1753687872647-283211407.jpg"
+                    },
+                    {
+                        "id": "6887276da1af4e863b416297",
+                        "name": "Health & Fitness",
+                        "banner_type_1": "1753687915397-397289273.jpg",
+                        "banner_type_2": "1753687915397-321779038.jpg"
+                    },
+                    {
+                        "id": "6887279a31e4685ae083d662",
+                        "name": "Bath Towel",
+                        "banner_type_1": "1753687961081-590426435.jpg",
+                        "banner_type_2": "1753687961081-619995624.jpg"
+                    },
+                    {
+                        "id": "688727c0a1af4e863b41629d",
+                        "name": "Spa Headband",
+                        "banner_type_1": "1753687998088-662421658.jpg",
+                        "banner_type_2": "1753687998089-160337546.jpg"
+                    },
+                    {
+                        "id": "688727f931e4685ae083d676",
+                        "name": "Face towel",
+                        "banner_type_1": "1753688055524-590593054.jpg",
+                        "banner_type_2": "1753688055525-722806536.jpg"
+                    },
+                    {
+                        "id": "6887281ea1af4e863b4162a6",
+                        "name": "Hand Towel",
+                        "banner_type_1": "1753688092189-318998673.jpg",
+                        "banner_type_2": "1753688092190-446293836.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c255098c458993b3267b",
+                "category_id": "688483576c7fd47dbe4cb0e6",
+                "name": "Fragrance",
+                "category_img": "1753514837391-538170336.jpg",
+                "subcategories": [
+                    {
+                        "id": "688728b3a1af4e863b4162aa",
+                        "name": "Perfume",
+                        "banner_type_1": "1753688241143-393987808.jpg",
+                        "banner_type_2": "1753688241144-46823992.jpg"
+                    },
+                    {
+                        "id": "688728c831e4685ae083d67c",
+                        "name": "Body Spray",
+                        "banner_type_1": "1753688262125-617576800.jpg",
+                        "banner_type_2": "1753688262126-11173862.jpg"
+                    },
+                    {
+                        "id": "688728e0a1af4e863b4162b0",
+                        "name": "Body Mist",
+                        "banner_type_1": "1753688286826-160552415.jpg",
+                        "banner_type_2": "1753688286826-286386063.jpg"
+                    },
+                    {
+                        "id": "6887290078115a12932a1e05",
+                        "name": "Ator",
+                        "banner_type_1": "1753688318314-161610100.jpg",
+                        "banner_type_2": "1753688318316-179765441.jpg"
+                    },
+                    {
+                        "id": "68872d72c002762aa87c2155",
+                        "name": "Deodorants/Roll-Ons",
+                        "banner_type_1": "1753689482960-704386857.jpg",
+                        "banner_type_2": "1753689482961-577138250.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c255098c458993b3267b",
+                "category_id": "68d3bb1423d77892f228bdb9",
+                "name": "Hair Accessories",
+                "category_img": "1758706485618-708050434.jpg",
+                "subcategories": [
+                    {
+                        "id": "68d3bb5d6df00380011ea7fd",
+                        "name": "Hairbands",
+                        "banner_type_1": "1758706523495-33114402.jpg",
+                        "banner_type_2": "1758706523498-253370843.jpg"
+                    },
+                    {
+                        "id": "68d3bb7823d77892f228bdc5",
+                        "name": "Headbands",
+                        "banner_type_1": "1758706550354-937485421.jpg",
+                        "banner_type_2": "1758706550354-170586877.jpg"
+                    },
+                    {
+                        "id": "68d3bb946df00380011ea802",
+                        "name": "Clips & Barrettes",
+                        "banner_type_1": "1758706579367-192218837.jpg",
+                        "banner_type_2": "1758706579368-405582558.jpg"
+                    },
+                    {
+                        "id": "68d3bbb86df00380011ea806",
+                        "name": "Bobby Pins",
+                        "banner_type_1": "1758706614998-618186806.jpg",
+                        "banner_type_2": "1758706614998-143928512.jpg"
+                    },
+                    {
+                        "id": "68d3bd95f0f1961ee14128c1",
+                        "name": "Claw Clips",
+                        "banner_type_1": "1758707092319-244519092.jpg",
+                        "banner_type_2": "1758707092320-421761057.jpg"
+                    },
+                    {
+                        "id": "68d3bdbdf0f1961ee14128c5",
+                        "name": "Banana Clips",
+                        "banner_type_1": "1758707132308-214189933.jpg",
+                        "banner_type_2": "1758707132309-815987295.jpg"
+                    },
+                    {
+                        "id": "68d3bddd1cce69d3a4a41220",
+                        "name": "Crowns",
+                        "banner_type_1": "1758707163418-30416442.jpg",
+                        "banner_type_2": "1758707163422-576659603.jpg"
+                    },
+                    {
+                        "id": "68d3bdfef0f1961ee14128ca",
+                        "name": "Hair Sticks",
+                        "banner_type_1": "1758707196404-437151973.jpg",
+                        "banner_type_2": "1758707196405-748569608.jpg"
+                    },
+                    {
+                        "id": "68d3be191cce69d3a4a41225",
+                        "name": "Hair Chain & Jewelry",
+                        "banner_type_1": "1758707223736-341180415.jpg",
+                        "banner_type_2": "1758707223737-114398581.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type_id": "6880c25e098c458993b3267d",
+        "type_name": "Bag & Accessories",
+        "featured": {
+            "title": "Women Bag",
+            "image": "1753690024503-662377251.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c25e098c458993b3267d",
+                "category_id": "68872faa9c2740b1409e8f34",
+                "name": "Women Bag",
+                "category_img": "1753690024503-662377251.jpg",
+                "subcategories": [
+                    {
+                        "id": "68873b6f30dc5208f46f9b2e",
+                        "name": "Messenger Bag",
+                        "banner_type_1": "1753693037711-774804498.jpg",
+                        "banner_type_2": "1753693037711-476897390.jpg"
+                    },
+                    {
+                        "id": "68873b89b2c1f8c4880315bd",
+                        "name": "Tote Bag",
+                        "banner_type_1": "1753693063624-351979082.jpg",
+                        "banner_type_2": "1753693063626-996571615.jpg"
+                    },
+                    {
+                        "id": "68873bccb2c1f8c4880315c2",
+                        "name": "Clutch",
+                        "banner_type_1": "1753693129778-721845522.jpg",
+                        "banner_type_2": "1753693129779-289043552.jpg"
+                    },
+                    {
+                        "id": "68873c0130dc5208f46f9b33",
+                        "name": "Hand Bag",
+                        "banner_type_1": "1753693183586-590616604.jpg",
+                        "banner_type_2": "1753693183587-973626265.jpg"
+                    },
+                    {
+                        "id": "68873c2e30dc5208f46f9b37",
+                        "name": "Beach Bag",
+                        "banner_type_1": "1753693228116-288311738.jpg",
+                        "banner_type_2": "1753693228117-481794571.jpg"
+                    },
+                    {
+                        "id": "68873d51b2c1f8c4880315d0",
+                        "name": "Side Bag",
+                        "banner_type_1": "1753693519134-308477968.jpg",
+                        "banner_type_2": "1753693519135-204856539.jpg"
+                    },
+                    {
+                        "id": "68873f54b171aaddf17b2b3e",
+                        "name": "Bucket Bag",
+                        "banner_type_1": "1753694034542-60882865.jpg",
+                        "banner_type_2": "1753694034547-49391087.jpg"
+                    },
+                    {
+                        "id": "68873f77b2c1f8c4880315d7",
+                        "name": "Wallet",
+                        "banner_type_1": "1753694069374-288727427.jpg",
+                        "banner_type_2": "1753694069375-107266355.jpg"
+                    },
+                    {
+                        "id": "68873fa1b171aaddf17b2b43",
+                        "name": "Backpack Bag",
+                        "banner_type_1": "1753694111949-465443904.jpg",
+                        "banner_type_2": "1753694111949-358758703.jpg"
+                    },
+                    {
+                        "id": "68873fbbb171aaddf17b2b48",
+                        "name": "Barrel Bag",
+                        "banner_type_1": "1753694137613-213164819.jpg",
+                        "banner_type_2": "1753694137613-393122439.jpg"
+                    },
+                    {
+                        "id": "68873fd5b171aaddf17b2b4c",
+                        "name": "Belt Bag",
+                        "banner_type_1": "1753694163640-994195542.jpg",
+                        "banner_type_2": "1753694163641-750370544.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c25e098c458993b3267d",
+                "category_id": "6887306e9c2740b1409e8f38",
+                "name": "Men Bag",
+                "category_img": "1753690220698-133024.jpg",
+                "subcategories": [
+                    {
+                        "id": "688740a8b2c1f8c4880315dd",
+                        "name": "Shoulder Bag",
+                        "banner_type_1": "1753694374505-106609856.jpg",
+                        "banner_type_2": "1753694374506-998358488.jpg"
+                    },
+                    {
+                        "id": "688740d1b2c1f8c4880315e2",
+                        "name": "Wallet",
+                        "banner_type_1": "1753694415521-186597561.jpg",
+                        "banner_type_2": "1753694415521-604209339.jpg"
+                    },
+                    {
+                        "id": "68874116b171aaddf17b2b51",
+                        "name": "Backpack Bag",
+                        "banner_type_1": "1753694484083-704707568.jpg",
+                        "banner_type_2": "1753694484084-96833637.jpg"
+                    },
+                    {
+                        "id": "68874164b171aaddf17b2b56",
+                        "name": "Weekender Bag",
+                        "banner_type_1": "1753694562338-952586695.jpg",
+                        "banner_type_2": "1753694562338-683084759.jpg"
+                    },
+                    {
+                        "id": "68874186b2c1f8c4880315e7",
+                        "name": "Clutch bag",
+                        "banner_type_1": "1753694595864-115766127.jpg",
+                        "banner_type_2": "1753694595864-631277460.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c25e098c458993b3267d",
+                "category_id": "688738a5b171aaddf17b2b2c",
+                "name": "Trolleys & Travel Bag",
+                "category_img": "1753695052039-458272693.jpg",
+                "subcategories": [
+                    {
+                        "id": "68874459b2c1f8c4880315f0",
+                        "name": "Luggages & Trolleys",
+                        "banner_type_1": "1753695319428-71984922.jpg",
+                        "banner_type_2": "1753695319428-266039388.jpg"
+                    },
+                    {
+                        "id": "6887449bb171aaddf17b2b64",
+                        "name": "Travel Bag",
+                        "banner_type_1": "1753695386006-145960746.jpg",
+                        "banner_type_2": "1753695386006-510586651.jpg"
+                    },
+                    {
+                        "id": "68874530b2c1f8c4880315f5",
+                        "name": "Briefcase",
+                        "banner_type_1": "1753695534568-266595253.jpg",
+                        "banner_type_2": "1753695534568-815998175.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c25e098c458993b3267d",
+                "category_id": "68873afe30dc5208f46f9b29",
+                "name": "Sunglasses & Watches",
+                "category_img": "1753695098265-613041244.jpg",
+                "subcategories": [
+                    {
+                        "id": "68874563b171aaddf17b2b6d",
+                        "name": "Men Sunglasses",
+                        "banner_type_1": "1753695585428-67365612.jpg",
+                        "banner_type_2": "1753695585428-807478352.jpg"
+                    },
+                    {
+                        "id": "6887458bb2c1f8c4880315fa",
+                        "name": "Women Sunglasses",
+                        "banner_type_1": "1753695625369-884719069.jpg",
+                        "banner_type_2": "1753695625369-407194776.jpg"
+                    },
+                    {
+                        "id": "688745a5b171aaddf17b2b72",
+                        "name": "Men Watches",
+                        "banner_type_1": "1753695651286-508507772.jpg",
+                        "banner_type_2": "1753695651286-963111964.jpg"
+                    },
+                    {
+                        "id": "688745c0b2c1f8c4880315ff",
+                        "name": "Women Watches",
+                        "banner_type_1": "1753695679234-103608556.jpg",
+                        "banner_type_2": "1753695679234-940132082.jpg"
+                    },
+                    {
+                        "id": "6921a4e846fe7889be2e4743",
+                        "name": "Kids Sunglasses",
+                        "banner_type_1": "1763812583222-979024607.jpg",
+                        "banner_type_2": "1763812583224-82443001.jpg"
+                    },
+                    {
+                        "id": "6921a51c2eef9585d7fa59dd",
+                        "name": "Kids Watch",
+                        "banner_type_1": "1763812634082-152717487.jpg",
+                        "banner_type_2": "1763812634084-350383692.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c25e098c458993b3267d",
+                "category_id": "688743b7b171aaddf17b2b5e",
+                "name": "Caps & Hats",
+                "category_img": "1753695158063-893120022.jpg",
+                "subcategories": [
+                    {
+                        "id": "688745dcb171aaddf17b2b77",
+                        "name": "Men Caps & Hats",
+                        "banner_type_1": "1753695707163-97908310.jpg",
+                        "banner_type_2": "1753695707164-402489011.jpg"
+                    },
+                    {
+                        "id": "688745f6b171aaddf17b2b84",
+                        "name": "Women Caps & Hats",
+                        "banner_type_1": "1753695732506-646993739.jpg",
+                        "banner_type_2": "1753695732507-333564233.jpg"
+                    },
+                    {
+                        "id": "6921a6302eef9585d7fa5a1f",
+                        "name": "Kids Caps & Hats",
+                        "banner_type_1": "1763812910172-251272708.jpg",
+                        "banner_type_2": "1763812910173-41199216.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type_id": "6880c277098c458993b32681",
+        "type_name": "Foot wear",
+        "featured": {
+            "title": "Men Footwear",
+            "image": "1753698858259-169952932.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c277098c458993b32681",
+                "category_id": "6887522ca8915c6d019ee2ed",
+                "name": "Men Footwear",
+                "category_img": "1753698858259-169952932.jpg",
+                "subcategories": [
+                    {
+                        "id": "688871e2c944bfc5a411d628",
+                        "name": "Casual Shoes",
+                        "banner_type_1": "1753772512781-486960693.jpg",
+                        "banner_type_2": "1753772512783-468823653.jpg"
+                    },
+                    {
+                        "id": "68887209c0f3d46ed4af5559",
+                        "name": "Sports Shoes",
+                        "banner_type_1": "1753772551588-784756259.jpg",
+                        "banner_type_2": "1753772551590-254804428.jpg"
+                    },
+                    {
+                        "id": "68887226c944bfc5a411d62d",
+                        "name": "Formal Shoes",
+                        "banner_type_1": "1753772580308-73658715.jpg",
+                        "banner_type_2": "1753772580308-182331117.jpg"
+                    },
+                    {
+                        "id": "6888723fc944bfc5a411d632",
+                        "name": "Sneakers",
+                        "banner_type_1": "1753772605943-388265416.jpg",
+                        "banner_type_2": "1753772605944-536648246.jpg"
+                    },
+                    {
+                        "id": "688872a7c0f3d46ed4af5560",
+                        "name": "Boots",
+                        "banner_type_1": "1753772708401-249465193.jpg",
+                        "banner_type_2": "1753772708401-451737887.jpg"
+                    },
+                    {
+                        "id": "688872c3c944bfc5a411d637",
+                        "name": "Sandals & Floaters",
+                        "banner_type_1": "1753772737008-775686285.jpg",
+                        "banner_type_2": "1753772737009-827069832.jpg"
+                    },
+                    {
+                        "id": "688872e0c944bfc5a411d63c",
+                        "name": "Canvas",
+                        "banner_type_1": "1753772766493-876053805.jpg",
+                        "banner_type_2": "1753772766494-459977063.jpg"
+                    },
+                    {
+                        "id": "688872f9c944bfc5a411d641",
+                        "name": "Flip Flops",
+                        "banner_type_1": "1753772791827-276828387.jpg",
+                        "banner_type_2": "1753772791827-677573635.jpg"
+                    },
+                    {
+                        "id": "6888730fc0f3d46ed4af5565",
+                        "name": "Socks",
+                        "banner_type_1": "1753772812675-847836564.jpg",
+                        "banner_type_2": "1753772812676-945108814.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c277098c458993b32681",
+                "category_id": "68875243a8915c6d019ee2f1",
+                "name": "Women Footwear",
+                "category_img": "1753698881439-138165692.jpg",
+                "subcategories": [
+                    {
+                        "id": "68887341c944bfc5a411d646",
+                        "name": "Flats",
+                        "banner_type_1": "1753772863121-459433033.jpg",
+                        "banner_type_2": "1753772863122-295079181.jpg"
+                    },
+                    {
+                        "id": "6888735cc0f3d46ed4af556a",
+                        "name": "Casual Shoes",
+                        "banner_type_1": "1753772889858-445879382.jpg",
+                        "banner_type_2": "1753772889859-347395403.jpg"
+                    },
+                    {
+                        "id": "68887380c944bfc5a411d64b",
+                        "name": "Heels",
+                        "banner_type_1": "1753772926292-735817970.jpg",
+                        "banner_type_2": "1753772926292-321912485.jpg"
+                    },
+                    {
+                        "id": "688873c3c0f3d46ed4af556f",
+                        "name": "Boots",
+                        "banner_type_1": "1753772992998-997329215.jpg",
+                        "banner_type_2": "1753772992999-349485874.jpg"
+                    },
+                    {
+                        "id": "688873dec944bfc5a411d650",
+                        "name": "Sports Shoes & Floaters",
+                        "banner_type_1": "1753773019631-635847962.jpg",
+                        "banner_type_2": "1753773019631-830132859.jpg"
+                    },
+                    {
+                        "id": "68887421c0f3d46ed4af5574",
+                        "name": "Loafers",
+                        "banner_type_1": "1753773087636-964827337.jpg",
+                        "banner_type_2": "1753773087636-407488082.jpg"
+                    },
+                    {
+                        "id": "688874abc0f3d46ed4af5579",
+                        "name": "Ballet flat",
+                        "banner_type_1": "1753773224896-505644575.jpg",
+                        "banner_type_2": "1753773224896-62791225.jpg"
+                    },
+                    {
+                        "id": "688874c4c944bfc5a411d655",
+                        "name": "Slipper",
+                        "banner_type_1": "1753773249747-159454867.jpg",
+                        "banner_type_2": "1753773249748-645550054.jpg"
+                    },
+                    {
+                        "id": "688876fc9973b3416a5397f4",
+                        "name": "Jutti",
+                        "banner_type_1": "1753773818078-204959703.jpg",
+                        "banner_type_2": "1753773818080-362224002.jpg"
+                    },
+                    {
+                        "id": "688877123d05f0b3177d8c68",
+                        "name": "Socks",
+                        "banner_type_1": "1753773840921-177130768.jpg",
+                        "banner_type_2": "1753773840922-922210437.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c277098c458993b32681",
+                "category_id": "688752a2cf4db5cc0c292598",
+                "name": " Kids Boy Footwear",
+                "category_img": "1753701146016-827687589.jpg",
+                "subcategories": [
+                    {
+                        "id": "689aecf89c8bcfc1035c9e48",
+                        "name": "Casual Shoes",
+                        "banner_type_1": "1754983670875-851233113.jpg",
+                        "banner_type_2": "1754983670879-615230015.jpg"
+                    },
+                    {
+                        "id": "689aed1c54b8c91c1a9db044",
+                        "name": "Flipflops",
+                        "banner_type_1": "1754983706686-869909519.jpg",
+                        "banner_type_2": "1754983706688-312503892.jpg"
+                    },
+                    {
+                        "id": "689aed68eb9d4d7b751efcb0",
+                        "name": "Sports Shoes",
+                        "banner_type_1": "1754983782043-672890074.jpg",
+                        "banner_type_2": "1754983782045-602714030.jpg"
+                    },
+                    {
+                        "id": "689aedf3eb9d4d7b751efcc2",
+                        "name": "Flats",
+                        "banner_type_1": "1754983921750-182652247.jpg",
+                        "banner_type_2": "1754983921751-581265703.jpg"
+                    },
+                    {
+                        "id": "689aee0f9c8bcfc1035c9e6f",
+                        "name": "Sandals",
+                        "banner_type_1": "1754983949921-615774733.jpg",
+                        "banner_type_2": "1754983949922-684598528.jpg"
+                    },
+                    {
+                        "id": "689aee3032cfe4027f1b0c37",
+                        "name": "School Shoes",
+                        "banner_type_1": "1754983982834-822387852.jpg",
+                        "banner_type_2": "1754983982837-756866939.jpg"
+                    },
+                    {
+                        "id": "689aee4c75654f03c9bbcd48",
+                        "name": "Socks",
+                        "banner_type_1": "1754984010701-32781881.jpg",
+                        "banner_type_2": "1754984010703-859307625.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c277098c458993b32681",
+                "category_id": "68875e23715b99c0be0ed9d0",
+                "name": "Kids Girl Footwear",
+                "category_img": "1753701921312-96859978.jpg",
+                "subcategories": [
+                    {
+                        "id": "689aee6775654f03c9bbcd4d",
+                        "name": "Casual Shoes",
+                        "banner_type_1": "1754984037629-400447811.jpg",
+                        "banner_type_2": "1754984037629-843135526.jpg"
+                    },
+                    {
+                        "id": "689aee8175654f03c9bbcd52",
+                        "name": "Flipflops",
+                        "banner_type_1": "1754984063811-19844735.jpg",
+                        "banner_type_2": "1754984063812-832788829.jpg"
+                    },
+                    {
+                        "id": "689aeea0eb9d4d7b751efcd8",
+                        "name": "Sports Shoes",
+                        "banner_type_1": "1754984089532-713527208.jpg",
+                        "banner_type_2": "1754984089532-797162286.jpg"
+                    },
+                    {
+                        "id": "689aeebdeb9d4d7b751efcdc",
+                        "name": "Flats",
+                        "banner_type_1": "1754984123288-606047974.jpg",
+                        "banner_type_2": "1754984123289-441319842.jpg"
+                    },
+                    {
+                        "id": "689aeede75654f03c9bbcd59",
+                        "name": "Sandals",
+                        "banner_type_1": "1754984155130-299721314.jpg",
+                        "banner_type_2": "1754984155131-653064280.jpg"
+                    },
+                    {
+                        "id": "689aeefbeb9d4d7b751efce1",
+                        "name": "Heels",
+                        "banner_type_1": "1754984184232-110584017.jpg",
+                        "banner_type_2": "1754984184233-698321684.jpg"
+                    },
+                    {
+                        "id": "689aef1d75654f03c9bbcd5e",
+                        "name": "School Shoes",
+                        "banner_type_1": "1754984218189-149965144.jpg",
+                        "banner_type_2": "1754984218189-990138469.jpg"
+                    },
+                    {
+                        "id": "689aef3675654f03c9bbcd64",
+                        "name": "Socks",
+                        "banner_type_1": "1754984244097-866333845.jpg",
+                        "banner_type_2": "1754984244097-464520733.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type_id": "6880c282098c458993b32683",
+        "type_name": "Home Decor",
+        "featured": {
+            "title": "Bedding & Linen",
+            "image": "1754133112288-744166856.jpg"
+        },
+        "categories": [
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688df27a5c7edc6cd6f99215",
+                "name": "Bedding & Linen",
+                "category_img": "1754133112288-744166856.jpg",
+                "subcategories": [
+                    {
+                        "id": "688efc61c5b5439e04fd6100",
+                        "name": "Bed Sheets",
+                        "banner_type_1": "1754201183654-608481669.jpg",
+                        "banner_type_2": "1754201183654-330615552.jpg"
+                    },
+                    {
+                        "id": "688efe5a1b4839b59f77a3d6",
+                        "name": "Bed Covers",
+                        "banner_type_1": "1754201687588-235806645.jpg",
+                        "banner_type_2": "1754201687590-714256992.jpg"
+                    },
+                    {
+                        "id": "688efee684fcb2b3bdff6054",
+                        "name": "Blankets, Quilts & Duvets",
+                        "banner_type_1": "1754201828545-203113129.jpg",
+                        "banner_type_2": "1754201828547-993615804.jpg"
+                    },
+                    {
+                        "id": "688eff111b4839b59f77a3e1",
+                        "name": "Nakshi Katha",
+                        "banner_type_1": "1754201871475-567300333.jpg",
+                        "banner_type_2": "1754201871477-767989145.jpg"
+                    },
+                    {
+                        "id": "688eff3084fcb2b3bdff6059",
+                        "name": "Comfy Foam",
+                        "banner_type_1": "1754201902161-623845735.jpg",
+                        "banner_type_2": "1754201902162-476054203.jpg"
+                    },
+                    {
+                        "id": "688eff561b4839b59f77a3e6",
+                        "name": "Pillow, Cushion & Covers",
+                        "banner_type_1": "1754201939817-55323524.jpg",
+                        "banner_type_2": "1754201939818-377472361.jpg"
+                    },
+                    {
+                        "id": "688eff9c37d16500bbd53a18",
+                        "name": "Mattress",
+                        "banner_type_1": "1754202009886-919426912.jpg",
+                        "banner_type_2": "1754202009888-563896672.jpg"
+                    },
+                    {
+                        "id": "688f012f7109a768ef095dd0",
+                        "name": "Mattress Topper",
+                        "banner_type_1": "1754202413252-790401736.jpg",
+                        "banner_type_2": "1754202413252-56075025.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688eef605b4740c92041a9ca",
+                "name": "Curtains & Window Treatment",
+                "category_img": "1754197854224-649032437.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f019d7109a768ef095dd6",
+                        "name": "Curtains",
+                        "banner_type_1": "1754202523399-935087224.jpg",
+                        "banner_type_2": "1754202523399-851630119.jpg"
+                    },
+                    {
+                        "id": "688f01d237d16500bbd53a26",
+                        "name": "Curtain Accessories",
+                        "banner_type_1": "1754202576714-805960501.jpg",
+                        "banner_type_2": "1754202576714-559871175.jpg"
+                    },
+                    {
+                        "id": "688f020937d16500bbd53a2b",
+                        "name": "Mosquito Nets",
+                        "banner_type_1": "1754202631634-70724288.jpg",
+                        "banner_type_2": "1754202631635-683567548.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688eef8a5b4740c92041a9ce",
+                "name": "Cozy Seating & Covers",
+                "category_img": "1754197896848-366830266.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f037c59e7901dbb488c75",
+                        "name": "Sofa & Chair Covers",
+                        "banner_type_1": "1754203002143-663944338.jpg",
+                        "banner_type_2": "1754203002146-686843497.jpg"
+                    },
+                    {
+                        "id": "688f039bc260319c28794b85",
+                        "name": "Ottoman",
+                        "banner_type_1": "1754203033545-47108635.jpg",
+                        "banner_type_2": "1754203033546-868185030.jpg"
+                    },
+                    {
+                        "id": "688f03b659e7901dbb488c7a",
+                        "name": "Swing",
+                        "banner_type_1": "1754203061071-467930608.jpg",
+                        "banner_type_2": "1754203061072-725989506.jpg"
+                    },
+                    {
+                        "id": "688f0570f0bdca172d71e922",
+                        "name": "Bean Bags",
+                        "banner_type_1": "1754203503026-783006928.jpg",
+                        "banner_type_2": "1754203503027-574483307.jpg"
+                    },
+                    {
+                        "id": "688f0588fd01c4a2ecd0c832",
+                        "name": "Poufs",
+                        "banner_type_1": "1754203526919-503205584.jpg",
+                        "banner_type_2": "1754203526920-422951217.jpg"
+                    },
+                    {
+                        "id": "688f05a8f0bdca172d71e927",
+                        "name": "Rocking Chair",
+                        "banner_type_1": "1754203558564-724662886.jpg",
+                        "banner_type_2": "1754203558565-115531470.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688ef3e552036370aa78d661",
+                "name": "Wall Decor",
+                "category_img": "1754199008248-700836374.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f05d6fd01c4a2ecd0c837",
+                        "name": "Wall Hanging",
+                        "banner_type_1": "1754203604589-312060909.jpg",
+                        "banner_type_2": "1754203604590-258768962.jpg"
+                    },
+                    {
+                        "id": "688f0612fd01c4a2ecd0c83b",
+                        "name": "Wall Art",
+                        "banner_type_1": "1754203664925-895863045.jpg",
+                        "banner_type_2": "1754203664926-876978073.jpg"
+                    },
+                    {
+                        "id": "688f0638f0bdca172d71e92d",
+                        "name": "Photo Frames",
+                        "banner_type_1": "1754203703253-51060278.jpg",
+                        "banner_type_2": "1754203703253-624762960.jpg"
+                    },
+                    {
+                        "id": "688f0655f0bdca172d71e931",
+                        "name": "Wall Shelves",
+                        "banner_type_1": "1754203732734-382340664.jpg",
+                        "banner_type_2": "1754203732735-471804205.jpg"
+                    },
+                    {
+                        "id": "688f067c21ec1f8bceee64cc",
+                        "name": "Clocks",
+                        "banner_type_1": "1754203769996-633524040.jpg",
+                        "banner_type_2": "1754203769999-202257269.jpg"
+                    },
+                    {
+                        "id": "688f08efc260319c28794c29",
+                        "name": "Mirrors",
+                        "banner_type_1": "1754204397540-278789828.jpg",
+                        "banner_type_2": "1754204397541-340543247.jpg"
+                    },
+                    {
+                        "id": "688f0913c260319c28794c2f",
+                        "name": "Showpieces",
+                        "banner_type_1": "1754204433378-695625023.jpg",
+                        "banner_type_2": "1754204433378-394850433.jpg"
+                    },
+                    {
+                        "id": "688f093d61acb50c14e38ada",
+                        "name": "Wall Stickers & Wallpapers",
+                        "banner_type_1": "1754204475385-395499961.jpg",
+                        "banner_type_2": "1754204475386-642441664.jpg"
+                    },
+                    {
+                        "id": "688f09aac260319c28794c3b",
+                        "name": "Wall Hanging Baskets",
+                        "banner_type_1": "1754204585091-404163681.jpg",
+                        "banner_type_2": "1754204585103-51549799.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688ef49ce63e3dbcf6ef07fe",
+                "name": "Decorative Lightings & Lamps",
+                "category_img": "1754199194305-120114710.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f09f961acb50c14e38b08",
+                        "name": "Hanging Lights",
+                        "banner_type_1": "1754204664764-814820262.jpg",
+                        "banner_type_2": "1754204664765-921628119.jpg"
+                    },
+                    {
+                        "id": "688f0ae667909ba0f237041d",
+                        "name": "Bamboo Lights",
+                        "banner_type_1": "1754204900741-887824255.jpg",
+                        "banner_type_2": "1754204900742-601986829.jpg"
+                    },
+                    {
+                        "id": "688f0b0dc260319c28794c5f",
+                        "name": "Chandelier",
+                        "banner_type_1": "1754204939687-637447213.jpg",
+                        "banner_type_2": "1754204939689-137753195.jpg"
+                    },
+                    {
+                        "id": "688f0b30c260319c28794c63",
+                        "name": "Lamps",
+                        "banner_type_1": "1754204975057-500306010.jpg",
+                        "banner_type_2": "1754204975057-721270932.jpg"
+                    },
+                    {
+                        "id": "688f0b6067909ba0f2370425",
+                        "name": "Candles",
+                        "banner_type_1": "1754205022575-116451787.jpg",
+                        "banner_type_2": "1754205022576-347399220.jpg"
+                    },
+                    {
+                        "id": "688f0b9bc260319c28794c68",
+                        "name": "Fairy Lights & String Lights",
+                        "banner_type_1": "1754205082165-276505052.jpg",
+                        "banner_type_2": "1754205082165-103665697.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688ef4c9e63e3dbcf6ef0802",
+                "name": "Fragrance",
+                "category_img": "1754199240263-969760373.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f0bd420b7d59e8ae85d1a",
+                        "name": "Room Spray Freshener",
+                        "banner_type_1": "1754205138900-288318502.jpg",
+                        "banner_type_2": "1754205138902-281285093.jpg"
+                    },
+                    {
+                        "id": "688f0c0267909ba0f237044e",
+                        "name": "Natural Essential Oil Spray",
+                        "banner_type_1": "1754205184434-172378470.jpg",
+                        "banner_type_2": "1754205184434-326727647.jpg"
+                    },
+                    {
+                        "id": "688f0c5d21ec1f8bceee652f",
+                        "name": "Aromatherapy Scented Candle",
+                        "banner_type_1": "1754205275900-365795588.jpg",
+                        "banner_type_2": "1754205275900-717362863.jpg"
+                    },
+                    {
+                        "id": "688f0c7920b7d59e8ae85d2b",
+                        "name": "Hanging Freshener",
+                        "banner_type_1": "1754205303736-647074657.jpg",
+                        "banner_type_2": "1754205303737-294362504.jpg"
+                    },
+                    {
+                        "id": "688f0ca321ec1f8bceee6534",
+                        "name": "Car Air Freshener",
+                        "banner_type_1": "1754205345751-207798943.jpg",
+                        "banner_type_2": "1754205345752-573954471.jpg"
+                    },
+                    {
+                        "id": "688f0d7861acb50c14e38b25",
+                        "name": "Aroma Diffuser",
+                        "banner_type_1": "1754205558937-527435033.jpg",
+                        "banner_type_2": "1754205558938-911911669.jpg"
+                    },
+                    {
+                        "id": "688f0ebb6e19b8b01c751f92",
+                        "name": "Beads Air Freshener",
+                        "banner_type_1": "1754205881578-748174688.jpg",
+                        "banner_type_2": "1754205881580-246834244.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688ef4fce63e3dbcf6ef0806",
+                "name": "Floral & Greenery",
+                "category_img": "1754199290589-810367709.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f0fab21ec1f8bceee6573",
+                        "name": "Artificial Flowers",
+                        "banner_type_1": "1754206121138-34769974.jpg",
+                        "banner_type_2": "1754206121138-438822617.jpg"
+                    },
+                    {
+                        "id": "688f0fe8be48ccb857378907",
+                        "name": "Planters & Vases",
+                        "banner_type_1": "1754206182306-771541239.jpg",
+                        "banner_type_2": "1754206182307-454280860.jpg"
+                    },
+                    {
+                        "id": "688f1030be48ccb857378923",
+                        "name": "Artificial Green Plants",
+                        "banner_type_1": "1754206254929-62393992.jpg",
+                        "banner_type_2": "1754206254930-82129888.jpg"
+                    },
+                    {
+                        "id": "688f1053c260319c28794cba",
+                        "name": "Wall Greenery Decor",
+                        "banner_type_1": "1754206289478-723464357.jpg",
+                        "banner_type_2": "1754206289478-7911757.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688ef7b7b927b07f6385930f",
+                "name": "Rugs & Flooring",
+                "category_img": "1754199990015-457331707.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f107721ec1f8bceee658d",
+                        "name": "Rugs",
+                        "banner_type_1": "1754206325257-288809084.jpg",
+                        "banner_type_2": "1754206325258-319169808.jpg"
+                    },
+                    {
+                        "id": "688f109dc260319c28794cc7",
+                        "name": "Carpets",
+                        "banner_type_1": "1754206363453-72453220.jpg",
+                        "banner_type_2": "1754206363453-803006037.jpg"
+                    },
+                    {
+                        "id": "688f10b8c260319c28794ccb",
+                        "name": "Door & Floor Mats",
+                        "banner_type_1": "1754206391248-882193118.jpg",
+                        "banner_type_2": "1754206391248-708578539.jpg"
+                    },
+                    {
+                        "id": "688f10da21ec1f8bceee6593",
+                        "name": "Utility & Specialty Mats",
+                        "banner_type_1": "1754206423938-425238068.jpg",
+                        "banner_type_2": "1754206423939-185891518.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688efb9ac5b5439e04fd60dc",
+                "name": "Dining & Table Decor",
+                "category_img": "1754200984114-4584089.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f1101c260319c28794cd0",
+                        "name": "Table Cloths",
+                        "banner_type_1": "1754206463418-166821658.jpg",
+                        "banner_type_2": "1754206463418-695290110.jpg"
+                    },
+                    {
+                        "id": "688f1121c260319c28794cd4",
+                        "name": "Runners",
+                        "banner_type_1": "1754206495875-457333199.jpg",
+                        "banner_type_2": "1754206495876-536526478.jpg"
+                    },
+                    {
+                        "id": "688f118cbe48ccb85737894b",
+                        "name": "Table Mats",
+                        "banner_type_1": "1754206601756-602529943.jpg",
+                        "banner_type_2": "1754206601757-784640584.jpg"
+                    },
+                    {
+                        "id": "688f1258c260319c28794cf6",
+                        "name": "Coasters",
+                        "banner_type_1": "1754206806438-255624978.jpg",
+                        "banner_type_2": "1754206806438-64709764.jpg"
+                    },
+                    {
+                        "id": "688f12a8be48ccb857378957",
+                        "name": "Tissue Holders",
+                        "banner_type_1": "1754206887201-489372037.jpg",
+                        "banner_type_2": "1754206887201-155389377.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688efbc2c5b5439e04fd60e0",
+                "name": "Bathroom Essentials",
+                "category_img": "1754201024699-927609527.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f1308c260319c28794cfb",
+                        "name": "Shower Curtains",
+                        "banner_type_1": "1754206981969-514344075.jpg",
+                        "banner_type_2": "1754206981970-70697010.jpg"
+                    },
+                    {
+                        "id": "688f13229c034449efa12461",
+                        "name": "Bathroom Mats",
+                        "banner_type_1": "1754207009009-368903350.jpg",
+                        "banner_type_2": "1754207009011-287484360.jpg"
+                    },
+                    {
+                        "id": "688f13459c034449efa12465",
+                        "name": "Soap Dispensers",
+                        "banner_type_1": "1754207043769-234619161.jpg",
+                        "banner_type_2": "1754207043769-930283857.jpg"
+                    },
+                    {
+                        "id": "688f13609c034449efa12469",
+                        "name": "Towel Holders",
+                        "banner_type_1": "1754207071048-159444449.jpg",
+                        "banner_type_2": "1754207071048-375598031.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688efbffc5b5439e04fd60f0",
+                "name": "Seasonal & Festive Decor",
+                "category_img": "1754201085217-547240529.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f138bc260319c28794d02",
+                        "name": "Eid/Ramadan Decor",
+                        "banner_type_1": "1754207113564-99609319.jpg",
+                        "banner_type_2": "1754207113564-84448829.jpg"
+                    },
+                    {
+                        "id": "688f143c561151d5a001261d",
+                        "name": "Diwali Lights & Diyas",
+                        "banner_type_1": "1754207290641-225752881.jpg",
+                        "banner_type_2": "1754207290643-777292006.jpg"
+                    },
+                    {
+                        "id": "688f1488561151d5a0012623",
+                        "name": "Christmas Tree & Ornaments",
+                        "banner_type_1": "1754207366305-200362182.jpg",
+                        "banner_type_2": "1754207366306-329885200.jpg"
+                    },
+                    {
+                        "id": "688f14a6c260319c28794d08",
+                        "name": "Birthday Decoration",
+                        "banner_type_1": "1754207396557-882825963.jpg",
+                        "banner_type_2": "1754207396558-589773343.jpg"
+                    }
+                ]
+            },
+            {
+                "type_id": "6880c282098c458993b32683",
+                "category_id": "688efc221b4839b59f77a3c9",
+                "name": "Storage",
+                "category_img": "1754201120634-378814839.jpg",
+                "subcategories": [
+                    {
+                        "id": "688f14cd561151d5a0012628",
+                        "name": "Bins",
+                        "banner_type_1": "1754207435303-362595944.jpg",
+                        "banner_type_2": "1754207435304-767939782.jpg"
+                    },
+                    {
+                        "id": "688f150bc260319c28794d0d",
+                        "name": "Hangers",
+                        "banner_type_1": "1754207497161-244409834.jpg",
+                        "banner_type_2": "1754207497162-790182636.jpg"
+                    },
+                    {
+                        "id": "688f1575561151d5a001262d",
+                        "name": "Organizers",
+                        "banner_type_1": "1754208173536-651399617.jpg",
+                        "banner_type_2": "1754208173538-832598239.jpg"
+                    },
+                    {
+                        "id": "688f1595c260319c28794d12",
+                        "name": "Drawer Organizers",
+                        "banner_type_1": "1754207636007-36727904.jpg",
+                        "banner_type_2": "1754207636007-578806918.jpg"
+                    },
+                    {
+                        "id": "688f178d561151d5a0012632",
+                        "name": "Hooks & Holders",
+                        "banner_type_1": "1754208139585-97556769.jpg",
+                        "banner_type_2": "1754208139586-847139300.jpg"
+                    },
+                    {
+                        "id": "688f17d81d9ab1c238ffffb1",
+                        "name": "Laundry & Storage Baskets",
+                        "banner_type_1": "1754208215470-448642374.jpg",
+                        "banner_type_2": "1754208215471-460641720.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+]
