@@ -114,7 +114,7 @@ const FiltersSidebar = ({
         }`}
       >
         <div
-          className="absolute inset-0 bg-black bg-opacity-50"
+          className="absolute inset-0 bg-black/10 bg-opacity-50"
           onClick={() => setIsMobileDrawerOpen(false)}
         ></div>
         <div className="relative h-full w-4/5 max-w-sm bg-white shadow-xl overflow-y-auto">
