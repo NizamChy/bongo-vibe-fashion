@@ -1,32 +1,40 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import Searchbar from "./Searchbar";
 import CategoryNav from "./CategoryNav";
 import { useSelector } from "react-redux";
+import Sidebar from "./../Sidebar/Sidebar";
 import CartDrawer from "../Cart/CartDrawer";
-import { useEffect, useState, useRef } from "react";
-import { usePathname } from "next/navigation";
-import CommonModal from "../CommonModal/CommonModal";
-import { Heart, ShoppingCart, User } from "lucide-react";
-import LoginModalDetails from "../LoginSection/LoginModalDetails";
 import LoginDropdown from "./LoginDropdown";
-import Image from "next/image";
+import { usePathname } from "next/navigation";
+import { useEffect, useState, useRef } from "react";
+import CommonModal from "../CommonModal/CommonModal";
+import { Heart, ShoppingCart, User, Menu } from "lucide-react";
+import LoginModalDetails from "../LoginSection/LoginModalDetails";
+import { useUser } from "./../../hooks/fetchData/useUser";
+import { useCart } from "../../context/CartContext";
 
 const Navbar = () => {
   const [hovered, setHovered] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [dropDownState, setDropDownState] = useState(false);
 
   const dropDownMenuRef = useRef();
+  const { cartItems } = useCart();
+  const { handleUserLogout } = useUser();
 
   const pathname = usePathname();
   const isHomeRoute = pathname === "/" ? true : false;
 
   const userInfo = useSelector((state) => state.user.userInfo);
+  const favouriteFashionItems = useSelector(
+    (state) => state.userChoice.favouriteFashionItems,
+  );
 
   const toggleCart = () => {
     setIsCartOpen(!isCartOpen);
@@ -49,6 +57,14 @@ const Navbar = () => {
 
   const handleLogout = () => {
     handleUserLogout();
+  };
+
+  const toggleSidebar = () => {
+    setIsSidebarOpen(!isSidebarOpen);
+  };
+
+  const closeSidebar = () => {
+    setIsSidebarOpen(false);
   };
 
   useEffect(() => {
@@ -99,6 +115,15 @@ const Navbar = () => {
               </span>
             </Link> */}
 
+            <button
+              onClick={toggleSidebar}
+              className={`lg:hidden cursor-pointer transition-colors
+                ${isWhite ? "text-black" : "text-white"}
+              `}
+            >
+              <Menu />
+            </button>
+
             <Link href="/" className="shrink-0">
               <div className="w-24 md:w-28 lg:w-32 transition-all duration-200 hover:scale-105">
                 <Image
@@ -122,17 +147,19 @@ const Navbar = () => {
             `}
             >
               <Link href="/wishlist">
-                <button>
+                <button className="cursor-pointer relative">
                   <Heart />
+
+                  {favouriteFashionItems?.length > 0 && (
+                    <span className="absolute -top-1 -right-3 bg-primary text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+                      {favouriteFashionItems?.length || 0}
+                    </span>
+                  )}
                 </button>
               </Link>
 
-              {/* <button onClick={handleLogin}>
-                <User />
-              </button> */}
-
               {!userInfo?._id ? (
-                <button onClick={handleLogin}>
+                <button onClick={handleLogin} className="cursor-pointer">
                   <User />
                 </button>
               ) : (
@@ -148,8 +175,14 @@ const Navbar = () => {
                 </>
               )}
 
-              <button onClick={toggleCart}>
+              <button onClick={toggleCart} className="cursor-pointer relative">
                 <ShoppingCart />
+
+                {cartItems?.length > 0 && (
+                  <span className="absolute -top-2 -right-2.5 bg-primary text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+                    {cartItems?.length || 0}
+                  </span>
+                )}
               </button>
             </div>
           </nav>
@@ -158,6 +191,7 @@ const Navbar = () => {
         </header>
       </div>
 
+      <Sidebar isOpen={isSidebarOpen} onClose={closeSidebar} />
       <CartDrawer isOpen={isCartOpen} onClose={() => setIsCartOpen(false)} />
 
       <CommonModal isOpen={isModalOpen} onClose={closeModal}>
